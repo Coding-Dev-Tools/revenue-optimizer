@@ -1,0 +1,619 @@
+{
+  "generated": "2026-05-30T08:53:08.980890",
+  "summary": {
+    "total_opportunities": 20,
+    "total_monthly_gain": 24141.46,
+    "total_annual_gain": 289697.51999999996,
+    "channels": {
+      "affiliate": {
+        "avg_daily_revenue": 5331.53,
+        "opportunity_count": 3,
+        "total_potential_gain": 19697.49
+      },
+      "content": {
+        "avg_daily_revenue": 416.4,
+        "opportunity_count": 1,
+        "total_potential_gain": 1345.02
+      },
+      "seo": {
+        "avg_daily_revenue": 1635.38,
+        "opportunity_count": 8,
+        "total_potential_gain": 1217.46
+      },
+      "competitor": {
+        "avg_daily_revenue": 0.0,
+        "opportunity_count": 7,
+        "total_potential_gain": 1174.74
+      },
+      "email": {
+        "avg_daily_revenue": 3875.62,
+        "opportunity_count": 1,
+        "total_potential_gain": 706.75
+      },
+      "social": {
+        "avg_daily_revenue": 56.48,
+        "opportunity_count": 0,
+        "total_potential_gain": 0
+      }
+    }
+  },
+  "opportunities": [
+    {
+      "id": "aff_epc_aff_005",
+      "channel": "affiliate",
+      "title": "Improve EPC for BudgetBuyer",
+      "description": "BudgetBuyer has EPC $0.18 vs portfolio avg. Recommend better creatives, landing pages, or product selection.",
+      "current_value": 0.18249444444444443,
+      "projected_value": 0.35,
+      "revenue_gain_monthly": 10720.58,
+      "revenue_gain_annual": 128646.95999999999,
+      "effort": "MEDIUM",
+      "impact": "HIGH",
+      "roi_score": 106.85,
+      "priority": "critical",
+      "action_steps": [
+        "Audit current landing pages for conversion leaks",
+        "A/B test new creatives and CTAs",
+        "Review product selection and pricing",
+        "Negotiate higher commission rates if volume justified",
+        "Implement retargeting for dropped visitors"
+      ],
+      "metrics": {
+        "clicks": 273704,
+        "current_epc": 0.1825
+      }
+    },
+    {
+      "id": "aff_under_aff_005",
+      "channel": "affiliate",
+      "title": "Monetize high-traffic affiliate BudgetBuyer",
+      "description": "BudgetBuyer drives significant traffic but underperforms on revenue.",
+      "current_value": 16825.2,
+      "projected_value": 59979.73375,
+      "revenue_gain_monthly": 4388.22,
+      "revenue_gain_annual": 52658.64,
+      "effort": "MEDIUM",
+      "impact": "VERY_HIGH",
+      "roi_score": 58.32,
+      "priority": "critical",
+      "action_steps": [
+        "Analyze traffic quality and intent",
+        "Test premium product placements",
+        "Create dedicated landing pages",
+        "Implement dynamic offers based on traffic segment"
+      ],
+      "metrics": {
+        "revenue": 16825.2,
+        "avg_revenue": 59979.73
+      }
+    },
+    {
+      "id": "aff_conv_aff_005",
+      "channel": "affiliate",
+      "title": "Boost conversion rate for BudgetBuyer",
+      "description": "BudgetBuyer converts at 1.6%. Optimize funnel to reach 3% target.",
+      "current_value": 0.016219999999999995,
+      "projected_value": 0.03,
+      "revenue_gain_monthly": 4588.69,
+      "revenue_gain_annual": 55064.28,
+      "effort": "HIGH",
+      "impact": "HIGH",
+      "roi_score": 34.33,
+      "priority": "high",
+      "action_steps": [
+        "Analyze drop-off points in affiliate funnel",
+        "Improve pre-sell content quality",
+        "Test different offer presentations",
+        "Add social proof and urgency elements",
+        "Optimize mobile experience"
+      ],
+      "metrics": {
+        "conversion_rate": 0.0162
+      }
+    },
+    {
+      "id": "cnt_refresh_pg_007",
+      "channel": "content",
+      "title": "Refresh stale content: Old Product Roundup",
+      "description": "Review content has declining traffic. Update with current info and new products.",
+      "current_value": 528.7800000000001,
+      "projected_value": 1873.8045000000002,
+      "revenue_gain_monthly": 1345.02,
+      "revenue_gain_annual": 16140.24,
+      "effort": "LOW",
+      "impact": "MEDIUM",
+      "roi_score": 13.38,
+      "priority": "medium",
+      "action_steps": [
+        "Update product recommendations with current picks",
+        "Refresh pricing and availability info",
+        "Add new comparison criteria",
+        "Update publication date and meta info",
+        "Promote via social and email channels"
+      ],
+      "metrics": {
+        "sessions": 3981
+      }
+    },
+    {
+      "id": "email_unsub_list_001",
+      "channel": "email",
+      "title": "Reduce unsubscribe rate: Weekly Deals",
+      "description": "Unsubscribe rate 0.31% is high. List churn reduces long-term revenue potential.",
+      "current_value": 0.00314111111111111,
+      "projected_value": 0.002,
+      "revenue_gain_monthly": 706.75,
+      "revenue_gain_annual": 8481.0,
+      "effort": "LOW",
+      "impact": "MEDIUM",
+      "roi_score": 7.03,
+      "priority": "medium",
+      "action_steps": [
+        "Implement frequency preference center",
+        "Add 'pause' option instead of unsubscribe",
+        "Improve content relevance and segmentation",
+        "Survey unsubscribers for feedback",
+        "Review and reduce email frequency if needed"
+      ],
+      "metrics": {
+        "unsub_rate": 0.0031
+      }
+    },
+    {
+      "id": "seo_page2_vpn_comparison",
+      "channel": "seo",
+      "title": "Push 'vpn comparison' from page 2 to page 1",
+      "description": "Currently averaging position 12. Volume: 22,000/mo. High opportunity to reach page 1.",
+      "current_value": 12.011111111111111,
+      "projected_value": 8.0,
+      "revenue_gain_monthly": 511.5,
+      "revenue_gain_annual": 6138.0,
+      "effort": "MEDIUM",
+      "impact": "HIGH",
+      "roi_score": 5.1,
+      "priority": "medium",
+      "action_steps": [
+        "Audit and improve content depth and quality",
+        "Build 5-10 relevant backlinks",
+        "Optimize title tag and meta description",
+        "Add structured data markup",
+        "Improve internal linking to this page",
+        "Ensure mobile optimization and Core Web Vitals"
+      ],
+      "metrics": {
+        "position": 12.0,
+        "volume": 22000,
+        "cpc": 3.1
+      }
+    },
+    {
+      "id": "comp_weak_comp_002",
+      "channel": "competitor",
+      "title": "Exploit TopPickDaily's weak rankings",
+      "description": "TopPickDaily averages position 13. Target their weak keywords to capture market share.",
+      "current_value": 0,
+      "projected_value": 12687.992222222223,
+      "revenue_gain_monthly": 253.76,
+      "revenue_gain_annual": 3045.12,
+      "effort": "MEDIUM",
+      "impact": "HIGH",
+      "roi_score": 2.53,
+      "priority": "low",
+      "action_steps": [
+        "Identify keywords where competitor ranks poorly",
+        "Create superior content for those keywords",
+        "Build links to outperform competitor pages",
+        "Monitor SERP movements weekly"
+      ],
+      "metrics": {
+        "competitor_avg_position": 13.3
+      }
+    },
+    {
+      "id": "comp_weak_comp_003",
+      "channel": "competitor",
+      "title": "Exploit DealHunterPro's weak rankings",
+      "description": "DealHunterPro averages position 12. Target their weak keywords to capture market share.",
+      "current_value": 0,
+      "projected_value": 12213.236666666668,
+      "revenue_gain_monthly": 244.26,
+      "revenue_gain_annual": 2931.12,
+      "effort": "MEDIUM",
+      "impact": "HIGH",
+      "roi_score": 2.43,
+      "priority": "low",
+      "action_steps": [
+        "Identify keywords where competitor ranks poorly",
+        "Create superior content for those keywords",
+        "Build links to outperform competitor pages",
+        "Monitor SERP movements weekly"
+      ],
+      "metrics": {
+        "competitor_avg_position": 12.5
+      }
+    },
+    {
+      "id": "comp_weak_comp_001",
+      "channel": "competitor",
+      "title": "Exploit RivalReviews's weak rankings",
+      "description": "RivalReviews averages position 13. Target their weak keywords to capture market share.",
+      "current_value": 0,
+      "projected_value": 12142.286666666667,
+      "revenue_gain_monthly": 242.85,
+      "revenue_gain_annual": 2914.2,
+      "effort": "MEDIUM",
+      "impact": "HIGH",
+      "roi_score": 2.42,
+      "priority": "low",
+      "action_steps": [
+        "Identify keywords where competitor ranks poorly",
+        "Create superior content for those keywords",
+        "Build links to outperform competitor pages",
+        "Monitor SERP movements weekly"
+      ],
+      "metrics": {
+        "competitor_avg_position": 12.6
+      }
+    },
+    {
+      "id": "seo_highcpc_vpn_comparison",
+      "channel": "seo",
+      "title": "Target high-CPC keyword 'vpn comparison'",
+      "description": "CPC $3.10, position 12. Ranking improvements yield high revenue per visitor.",
+      "current_value": 12.011111111111111,
+      "projected_value": 3.0,
+      "revenue_gain_monthly": 204.6,
+      "revenue_gain_annual": 2455.2,
+      "effort": "HIGH",
+      "impact": "VERY_HIGH",
+      "roi_score": 2.04,
+      "priority": "low",
+      "action_steps": [
+        "Create comprehensive pillar content",
+        "Build topic cluster with supporting articles",
+        "Secure 15+ quality backlinks",
+        "Optimize for featured snippet",
+        "Monitor and iterate monthly"
+      ],
+      "metrics": {
+        "cpc": 3.1,
+        "position": 12.0
+      }
+    },
+    {
+      "id": "seo_ctr_seo_tools_2026",
+      "channel": "seo",
+      "title": "Improve CTR for 'seo tools 2026'",
+      "description": "High impressions (23,724) but low CTR (1.0%). Optimize titles and meta descriptions.",
+      "current_value": 0.009863429438543247,
+      "projected_value": 0.04,
+      "revenue_gain_monthly": 150.14,
+      "revenue_gain_annual": 1801.6799999999998,
+      "effort": "LOW",
+      "impact": "MEDIUM",
+      "roi_score": 1.49,
+      "priority": "low",
+      "action_steps": [
+        "Rewrite title tag with power words and numbers",
+        "Write compelling meta description with CTA",
+        "Add schema markup for rich snippets",
+        "Test different title variations over 4 weeks"
+      ],
+      "metrics": {
+        "impressions": 23724,
+        "ctr": 0.0099
+      }
+    },
+    {
+      "id": "seo_highcpc_seo_tools_2026",
+      "channel": "seo",
+      "title": "Target high-CPC keyword 'seo tools 2026'",
+      "description": "CPC $4.20, position 25. Ranking improvements yield high revenue per visitor.",
+      "current_value": 25.08888888888889,
+      "projected_value": 3.0,
+      "revenue_gain_monthly": 100.8,
+      "revenue_gain_annual": 1209.6,
+      "effort": "HIGH",
+      "impact": "VERY_HIGH",
+      "roi_score": 1.01,
+      "priority": "low",
+      "action_steps": [
+        "Create comprehensive pillar content",
+        "Build topic cluster with supporting articles",
+        "Secure 15+ quality backlinks",
+        "Optimize for featured snippet",
+        "Monitor and iterate monthly"
+      ],
+      "metrics": {
+        "cpc": 4.2,
+        "position": 25.1
+      }
+    },
+    {
+      "id": "comp_bl_comp_002",
+      "channel": "competitor",
+      "title": "Close backlink gap with TopPickDaily",
+      "description": "TopPickDaily has 17,482 backlinks. Targeted link building can capture their ranking share.",
+      "current_value": 0,
+      "projected_value": 5244.48,
+      "revenue_gain_monthly": 126.88,
+      "revenue_gain_annual": 1522.56,
+      "effort": "HIGH",
+      "impact": "HIGH",
+      "roi_score": 0.95,
+      "priority": "low",
+      "action_steps": [
+        "Analyze TopPickDaily's top backlink sources",
+        "Create link-worthy content assets",
+        "Guest post on competitor's referring domains",
+        "Build resource page links",
+        "Monitor new competitor backlinks monthly"
+      ],
+      "metrics": {
+        "competitor_backlinks": 17481.6
+      }
+    },
+    {
+      "id": "comp_bl_comp_001",
+      "channel": "competitor",
+      "title": "Close backlink gap with RivalReviews",
+      "description": "RivalReviews has 16,979 backlinks. Targeted link building can capture their ranking share.",
+      "current_value": 0,
+      "projected_value": 5093.6033333333335,
+      "revenue_gain_monthly": 121.42,
+      "revenue_gain_annual": 1457.04,
+      "effort": "HIGH",
+      "impact": "HIGH",
+      "roi_score": 0.91,
+      "priority": "low",
+      "action_steps": [
+        "Analyze RivalReviews's top backlink sources",
+        "Create link-worthy content assets",
+        "Guest post on competitor's referring domains",
+        "Build resource page links",
+        "Monitor new competitor backlinks monthly"
+      ],
+      "metrics": {
+        "competitor_backlinks": 16978.67777777778
+      }
+    },
+    {
+      "id": "comp_bl_comp_003",
+      "channel": "competitor",
+      "title": "Close backlink gap with DealHunterPro",
+      "description": "DealHunterPro has 18,034 backlinks. Targeted link building can capture their ranking share.",
+      "current_value": 0,
+      "projected_value": 5410.09,
+      "revenue_gain_monthly": 122.13,
+      "revenue_gain_annual": 1465.56,
+      "effort": "HIGH",
+      "impact": "HIGH",
+      "roi_score": 0.91,
+      "priority": "low",
+      "action_steps": [
+        "Analyze DealHunterPro's top backlink sources",
+        "Create link-worthy content assets",
+        "Guest post on competitor's referring domains",
+        "Build resource page links",
+        "Monitor new competitor backlinks monthly"
+      ],
+      "metrics": {
+        "competitor_backlinks": 18033.633333333335
+      }
+    },
+    {
+      "id": "seo_page2_remote_work_accessories",
+      "channel": "seo",
+      "title": "Push 'remote work accessories' from page 2 to page 1",
+      "description": "Currently averaging position 18. Volume: 6,000/mo. High opportunity to reach page 1.",
+      "current_value": 18.07777777777778,
+      "projected_value": 8.0,
+      "revenue_gain_monthly": 85.5,
+      "revenue_gain_annual": 1026.0,
+      "effort": "MEDIUM",
+      "impact": "HIGH",
+      "roi_score": 0.85,
+      "priority": "low",
+      "action_steps": [
+        "Audit and improve content depth and quality",
+        "Build 5-10 relevant backlinks",
+        "Optimize title tag and meta description",
+        "Add structured data markup",
+        "Improve internal linking to this page",
+        "Ensure mobile optimization and Core Web Vitals"
+      ],
+      "metrics": {
+        "position": 18.1,
+        "volume": 6000,
+        "cpc": 1.9
+      }
+    },
+    {
+      "id": "seo_page2_home_office_setup",
+      "channel": "seo",
+      "title": "Push 'home office setup' from page 2 to page 1",
+      "description": "Currently averaging position 15. Volume: 7,500/mo. High opportunity to reach page 1.",
+      "current_value": 15.077777777777778,
+      "projected_value": 8.0,
+      "revenue_gain_monthly": 84.38,
+      "revenue_gain_annual": 1012.56,
+      "effort": "MEDIUM",
+      "impact": "HIGH",
+      "roi_score": 0.84,
+      "priority": "low",
+      "action_steps": [
+        "Audit and improve content depth and quality",
+        "Build 5-10 relevant backlinks",
+        "Optimize title tag and meta description",
+        "Add structured data markup",
+        "Improve internal linking to this page",
+        "Ensure mobile optimization and Core Web Vitals"
+      ],
+      "metrics": {
+        "position": 15.1,
+        "volume": 7500,
+        "cpc": 1.5
+      }
+    },
+    {
+      "id": "seo_ctr_remote_work_accessories",
+      "channel": "seo",
+      "title": "Improve CTR for 'remote work accessories'",
+      "description": "High impressions (18,031) but low CTR (1.4%). Optimize titles and meta descriptions.",
+      "current_value": 0.014364150629471465,
+      "projected_value": 0.04,
+      "revenue_gain_monthly": 43.91,
+      "revenue_gain_annual": 526.92,
+      "effort": "LOW",
+      "impact": "MEDIUM",
+      "roi_score": 0.44,
+      "priority": "low",
+      "action_steps": [
+        "Rewrite title tag with power words and numbers",
+        "Write compelling meta description with CTA",
+        "Add schema markup for rich snippets",
+        "Test different title variations over 4 weeks"
+      ],
+      "metrics": {
+        "impressions": 18031,
+        "ctr": 0.0144
+      }
+    },
+    {
+      "id": "seo_ctr_home_office_setup",
+      "channel": "seo",
+      "title": "Improve CTR for 'home office setup'",
+      "description": "High impressions (22,510) but low CTR (1.8%). Optimize titles and meta descriptions.",
+      "current_value": 0.01830297645490893,
+      "projected_value": 0.04,
+      "revenue_gain_monthly": 36.63,
+      "revenue_gain_annual": 439.56000000000006,
+      "effort": "LOW",
+      "impact": "MEDIUM",
+      "roi_score": 0.36,
+      "priority": "low",
+      "action_steps": [
+        "Rewrite title tag with power words and numbers",
+        "Write compelling meta description with CTA",
+        "Add schema markup for rich snippets",
+        "Test different title variations over 4 weeks"
+      ],
+      "metrics": {
+        "impressions": 22510,
+        "ctr": 0.0183
+      }
+    },
+    {
+      "id": "comp_content_comp_002",
+      "channel": "competitor",
+      "title": "Close content gap with TopPickDaily",
+      "description": "TopPickDaily has 513 content pieces. Identify topics they cover that you don't.",
+      "current_value": 0,
+      "projected_value": 102.65555555555557,
+      "revenue_gain_monthly": 63.44,
+      "revenue_gain_annual": 761.28,
+      "effort": "VERY_HIGH",
+      "impact": "MEDIUM",
+      "roi_score": 0.25,
+      "priority": "low",
+      "action_steps": [
+        "Run content gap analysis using keyword tools",
+        "Prioritize topics by traffic potential and relevance",
+        "Create content calendar for missing topics",
+        "Produce 4-6 gap-filling articles per month",
+        "Track ranking improvements quarterly"
+      ],
+      "metrics": {
+        "competitor_content": 513.2777777777778
+      }
+    }
+  ],
+  "monthly_plan": [
+    {
+      "week": 1,
+      "task_count": 9,
+      "estimated_hours": 20.0,
+      "projected_revenue_gain": 15108.8,
+      "opportunities": [
+        "Improve EPC for BudgetBuyer",
+        "Monetize high-traffic affiliate BudgetBuyer"
+      ],
+      "tasks": [
+        "Audit current landing pages for conversion leaks",
+        "A/B test new creatives and CTAs",
+        "Review product selection and pricing",
+        "Negotiate higher commission rates if volume justified",
+        "Implement retargeting for dropped visitors",
+        "Analyze traffic quality and intent",
+        "Test premium product placements",
+        "Create dedicated landing pages",
+        "Implement dynamic offers based on traffic segment"
+      ]
+    },
+    {
+      "week": 2,
+      "task_count": 5,
+      "estimated_hours": 20.0,
+      "projected_revenue_gain": 4588.69,
+      "opportunities": [
+        "Boost conversion rate for BudgetBuyer"
+      ],
+      "tasks": [
+        "Analyze drop-off points in affiliate funnel",
+        "Improve pre-sell content quality",
+        "Test different offer presentations",
+        "Add social proof and urgency elements",
+        "Optimize mobile experience"
+      ]
+    },
+    {
+      "week": 3,
+      "task_count": 16,
+      "estimated_hours": 20.0,
+      "projected_revenue_gain": 2563.27,
+      "opportunities": [
+        "Refresh stale content: Old Product Roundup",
+        "Reduce unsubscribe rate: Weekly Deals",
+        "Push 'vpn comparison' from page 2 to page 1"
+      ],
+      "tasks": [
+        "Update product recommendations with current picks",
+        "Refresh pricing and availability info",
+        "Add new comparison criteria",
+        "Update publication date and meta info",
+        "Promote via social and email channels",
+        "Implement frequency preference center",
+        "Add 'pause' option instead of unsubscribe",
+        "Improve content relevance and segmentation",
+        "Survey unsubscribers for feedback",
+        "Review and reduce email frequency if needed",
+        "Audit and improve content depth and quality",
+        "Build 5-10 relevant backlinks",
+        "Optimize title tag and meta description",
+        "Add structured data markup",
+        "Improve internal linking to this page",
+        "Ensure mobile optimization and Core Web Vitals"
+      ]
+    },
+    {
+      "week": 4,
+      "task_count": 8,
+      "estimated_hours": 20.0,
+      "projected_revenue_gain": 498.02,
+      "opportunities": [
+        "Exploit TopPickDaily's weak rankings",
+        "Exploit DealHunterPro's weak rankings"
+      ],
+      "tasks": [
+        "Identify keywords where competitor ranks poorly",
+        "Create superior content for those keywords",
+        "Build links to outperform competitor pages",
+        "Monitor SERP movements weekly",
+        "Identify keywords where competitor ranks poorly",
+        "Create superior content for those keywords",
+        "Build links to outperform competitor pages",
+        "Monitor SERP movements weekly"
+      ]
+    }
+  ]
+}
