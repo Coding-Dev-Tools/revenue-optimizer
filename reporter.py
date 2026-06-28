@@ -277,5 +277,5 @@ class Reporter:
         # Cumulative gain
         cumulative = sum(p - sim.baseline_monthly for p in sim.monthly_projections)
         print(f"  Cumulative 6-Month Gain:   ${cumulative:>12,.2f}")
-        print(f"  Break-even Assumption:     Immediate (optimization effort only)")
+        print("  Break-even Assumption:     Immediate (optimization effort only)")
         print("=" * 80)

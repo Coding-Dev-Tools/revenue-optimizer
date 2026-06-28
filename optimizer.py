@@ -4,10 +4,9 @@ Scans channels, scores opportunities, generates action plans.
 """
 
 import os
-from datetime import datetime, timedelta
 from data_models import (
-    ChannelType, OptimizationOpportunity, ActionPlan, ChannelSummary,
-    SimulationResult, Priority, Effort, Impact
+    ChannelType, ActionPlan, ChannelSummary,
+    SimulationResult, Effort
 )
 from channels import (
     AffiliateChannel, ContentChannel, SEOChannel,

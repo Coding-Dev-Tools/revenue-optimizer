@@ -4,10 +4,9 @@ Each channel returns a list of OptimizationOpportunity objects.
 """
 
 import csv
-import os
 from collections import defaultdict
 from data_models import (
-    ChannelType, Effort, Impact, OptimizationOpportunity, Priority
+    ChannelType, Effort, Impact, OptimizationOpportunity
 )
 
 
@@ -207,7 +206,7 @@ class ContentChannel:
                 opps.append(OptimizationOpportunity(
                     id=f"cnt_refresh_{pid}", channel=ChannelType.CONTENT,
                     title=f"Refresh stale content: {p['title']}",
-                    description=f"Review content has declining traffic. Update with current info and new products.",
+                    description="Review content has declining traffic. Update with current info and new products.",
                     current_value=p['revenue'], projected_value=avg_rev * 0.4,
                     revenue_gain_monthly=round(max(gain, 30), 2),
                     effort=Effort.LOW, impact=Impact.MEDIUM,
