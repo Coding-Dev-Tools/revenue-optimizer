@@ -46,14 +46,10 @@ def cmd_scan(args):
     if args.channel:
         ch = CHANNEL_LOOKUP.get(args.channel.lower())
         if ch is None:
-            print(f"Unknown channel: {args.channel}")
-            print(f"Available: {', '.join(CHANNEL_LOOKUP.keys())}")
             sys.exit(1)
         channels = [ch]
 
-    print("Scanning channels for optimization opportunities...")
-    opps = optimizer.scan(channels)
-    print(f"\nFound {len(opps)} total opportunities.")
+    optimizer.scan(channels)
 
     reporter = Reporter(optimizer)
     reporter.console_report(top_n=args.top or 15)
@@ -90,7 +86,7 @@ def cmd_report(args):
         reporter.export_csv(path)
 
     if fmt == "all":
-        print(f"\nAll reports generated in: {os.path.abspath(output_dir)}")
+        pass
 
 
 def cmd_simulate(args):

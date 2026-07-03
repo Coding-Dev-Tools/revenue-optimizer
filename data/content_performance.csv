@@ -1,721 +1,721 @@
 date,page_id,page_title,content_type,sessions,bounce_rate,avg_time_min,monetized,revenue
-2026-03-01,pg_001,Best Laptops 2026,review,603,0.685,4.3,True,173.48
-2026-03-01,pg_002,How to Start a Blog,howto,519,0.569,2.1,True,124.08
-2026-03-01,pg_003,Top 10 VPN Services,review,785,0.561,4.7,True,154.12
-2026-03-01,pg_004,Budget Meal Planning,guide,432,0.497,1.4,False,0
-2026-03-01,pg_005,Remote Work Setup Guide,guide,359,0.568,4.4,False,0
-2026-03-01,pg_006,SEO Basics 2026,howto,446,0.415,4.8,False,0
-2026-03-01,pg_007,Old Product Roundup,review,46,0.482,2.3,True,13.46
-2026-03-01,pg_008,Fitness Tracker Comparison,review,754,0.506,5.0,True,139.98
-2026-03-02,pg_001,Best Laptops 2026,review,758,0.375,2.4,True,156.41
-2026-03-02,pg_002,How to Start a Blog,howto,462,0.381,3.2,False,0
-2026-03-02,pg_003,Top 10 VPN Services,review,770,0.579,1.5,False,0
-2026-03-02,pg_004,Budget Meal Planning,guide,426,0.396,1.6,False,0
-2026-03-02,pg_005,Remote Work Setup Guide,guide,412,0.337,5.0,False,0
-2026-03-02,pg_006,SEO Basics 2026,howto,390,0.347,4.3,False,0
-2026-03-02,pg_007,Old Product Roundup,review,50,0.504,2.1,False,0
-2026-03-02,pg_008,Fitness Tracker Comparison,review,1030,0.397,3.2,True,288.88
-2026-03-03,pg_001,Best Laptops 2026,review,803,0.652,4.5,True,198.74
-2026-03-03,pg_002,How to Start a Blog,howto,379,0.674,3.0,False,0
-2026-03-03,pg_003,Top 10 VPN Services,review,695,0.419,3.3,False,0
-2026-03-03,pg_004,Budget Meal Planning,guide,397,0.359,3.2,False,0
-2026-03-03,pg_005,Remote Work Setup Guide,guide,412,0.517,2.8,False,0
-2026-03-03,pg_006,SEO Basics 2026,howto,325,0.579,3.3,True,79.26
-2026-03-03,pg_007,Old Product Roundup,review,32,0.598,3.8,False,0
-2026-03-03,pg_008,Fitness Tracker Comparison,review,745,0.565,4.3,False,0
-2026-03-04,pg_001,Best Laptops 2026,review,797,0.315,3.0,True,213.14
-2026-03-04,pg_002,How to Start a Blog,howto,489,0.476,3.1,False,0
-2026-03-04,pg_003,Top 10 VPN Services,review,906,0.464,3.6,True,151.64
-2026-03-04,pg_004,Budget Meal Planning,guide,512,0.435,3.8,False,0
-2026-03-04,pg_005,Remote Work Setup Guide,guide,484,0.641,4.4,False,0
-2026-03-04,pg_006,SEO Basics 2026,howto,355,0.587,4.0,False,0
-2026-03-04,pg_007,Old Product Roundup,review,32,0.327,3.5,False,0
-2026-03-04,pg_008,Fitness Tracker Comparison,review,1038,0.599,2.7,True,216.36
-2026-03-05,pg_001,Best Laptops 2026,review,978,0.477,3.8,False,0
-2026-03-05,pg_002,How to Start a Blog,howto,291,0.618,2.2,False,0
-2026-03-05,pg_003,Top 10 VPN Services,review,629,0.512,3.3,True,58.18
-2026-03-05,pg_004,Budget Meal Planning,guide,298,0.648,3.5,True,82.91
-2026-03-05,pg_005,Remote Work Setup Guide,guide,314,0.484,2.0,True,16.44
-2026-03-05,pg_006,SEO Basics 2026,howto,473,0.66,3.7,True,75.88
-2026-03-05,pg_007,Old Product Roundup,review,40,0.535,3.6,True,4.5
-2026-03-05,pg_008,Fitness Tracker Comparison,review,965,0.38,2.5,True,105.48
-2026-03-06,pg_001,Best Laptops 2026,review,834,0.53,5.0,True,245.6
-2026-03-06,pg_002,How to Start a Blog,howto,437,0.41,3.3,False,0
-2026-03-06,pg_003,Top 10 VPN Services,review,917,0.32,3.4,True,253.13
-2026-03-06,pg_004,Budget Meal Planning,guide,348,0.62,3.4,False,0
-2026-03-06,pg_005,Remote Work Setup Guide,guide,432,0.548,3.7,False,0
-2026-03-06,pg_006,SEO Basics 2026,howto,438,0.635,3.5,False,0
-2026-03-06,pg_007,Old Product Roundup,review,48,0.424,2.8,True,11.19
-2026-03-06,pg_008,Fitness Tracker Comparison,review,603,0.418,4.0,True,50.07
-2026-03-07,pg_001,Best Laptops 2026,review,818,0.689,3.1,False,0
-2026-03-07,pg_002,How to Start a Blog,howto,479,0.403,4.3,False,0
-2026-03-07,pg_003,Top 10 VPN Services,review,947,0.599,2.4,True,275.31
-2026-03-07,pg_004,Budget Meal Planning,guide,313,0.687,4.4,False,0
-2026-03-07,pg_005,Remote Work Setup Guide,guide,515,0.687,4.2,False,0
-2026-03-07,pg_006,SEO Basics 2026,howto,469,0.306,3.1,False,0
-2026-03-07,pg_007,Old Product Roundup,review,49,0.569,3.3,False,0
-2026-03-07,pg_008,Fitness Tracker Comparison,review,1011,0.343,1.9,True,274.04
-2026-03-08,pg_001,Best Laptops 2026,review,829,0.666,1.9,True,212.19
-2026-03-08,pg_002,How to Start a Blog,howto,498,0.421,2.6,True,142.71
-2026-03-08,pg_003,Top 10 VPN Services,review,706,0.497,1.4,False,0
-2026-03-08,pg_004,Budget Meal Planning,guide,312,0.481,3.7,False,0
-2026-03-08,pg_005,Remote Work Setup Guide,guide,507,0.468,4.0,True,77.94
-2026-03-08,pg_006,SEO Basics 2026,howto,303,0.496,2.6,False,0
-2026-03-08,pg_007,Old Product Roundup,review,32,0.448,2.8,False,0
-2026-03-08,pg_008,Fitness Tracker Comparison,review,970,0.34,3.7,True,285.63
-2026-03-09,pg_001,Best Laptops 2026,review,732,0.459,1.8,True,191.79
-2026-03-09,pg_002,How to Start a Blog,howto,389,0.565,3.6,False,0
-2026-03-09,pg_003,Top 10 VPN Services,review,570,0.615,2.0,True,108.95
-2026-03-09,pg_004,Budget Meal Planning,guide,296,0.606,1.8,True,79.16
-2026-03-09,pg_005,Remote Work Setup Guide,guide,358,0.359,4.6,True,94.73
-2026-03-09,pg_006,SEO Basics 2026,howto,314,0.352,2.0,True,67.59
-2026-03-09,pg_007,Old Product Roundup,review,32,0.306,4.2,True,4.19
-2026-03-09,pg_008,Fitness Tracker Comparison,review,643,0.321,4.0,True,152.02
-2026-03-10,pg_001,Best Laptops 2026,review,788,0.611,3.1,True,138.66
-2026-03-10,pg_002,How to Start a Blog,howto,506,0.317,4.1,False,0
-2026-03-10,pg_003,Top 10 VPN Services,review,810,0.483,4.9,True,137.49
-2026-03-10,pg_004,Budget Meal Planning,guide,376,0.574,3.0,False,0
-2026-03-10,pg_005,Remote Work Setup Guide,guide,297,0.332,3.4,True,35.27
-2026-03-10,pg_006,SEO Basics 2026,howto,431,0.519,2.3,False,0
-2026-03-10,pg_007,Old Product Roundup,review,45,0.481,3.4,True,10.15
-2026-03-10,pg_008,Fitness Tracker Comparison,review,969,0.56,4.1,True,100.54
-2026-03-11,pg_001,Best Laptops 2026,review,776,0.391,2.4,True,119.5
-2026-03-11,pg_002,How to Start a Blog,howto,302,0.471,3.7,False,0
-2026-03-11,pg_003,Top 10 VPN Services,review,633,0.669,1.3,False,0
-2026-03-11,pg_004,Budget Meal Planning,guide,302,0.339,4.0,False,0
-2026-03-11,pg_005,Remote Work Setup Guide,guide,413,0.535,3.2,False,0
-2026-03-11,pg_006,SEO Basics 2026,howto,309,0.441,3.7,False,0
-2026-03-11,pg_007,Old Product Roundup,review,54,0.588,4.9,True,7.45
-2026-03-11,pg_008,Fitness Tracker Comparison,review,837,0.385,3.6,True,64.49
-2026-03-12,pg_001,Best Laptops 2026,review,965,0.447,4.1,True,242.99
-2026-03-12,pg_002,How to Start a Blog,howto,482,0.69,4.3,False,0
-2026-03-12,pg_003,Top 10 VPN Services,review,868,0.311,4.7,False,0
-2026-03-12,pg_004,Budget Meal Planning,guide,344,0.372,3.8,False,0
-2026-03-12,pg_005,Remote Work Setup Guide,guide,361,0.302,4.5,False,0
-2026-03-12,pg_006,SEO Basics 2026,howto,376,0.357,3.5,True,88.93
-2026-03-12,pg_007,Old Product Roundup,review,37,0.468,2.4,True,8.52
-2026-03-12,pg_008,Fitness Tracker Comparison,review,932,0.527,1.3,True,83.28
-2026-03-13,pg_001,Best Laptops 2026,review,856,0.57,2.1,True,146.73
-2026-03-13,pg_002,How to Start a Blog,howto,386,0.409,4.0,True,60.79
-2026-03-13,pg_003,Top 10 VPN Services,review,695,0.571,2.9,True,42.64
-2026-03-13,pg_004,Budget Meal Planning,guide,374,0.54,1.0,False,0
-2026-03-13,pg_005,Remote Work Setup Guide,guide,330,0.355,2.0,False,0
-2026-03-13,pg_006,SEO Basics 2026,howto,281,0.599,1.7,False,0
-2026-03-13,pg_007,Old Product Roundup,review,50,0.5,4.3,False,0
-2026-03-13,pg_008,Fitness Tracker Comparison,review,594,0.645,1.2,True,166.49
-2026-03-14,pg_001,Best Laptops 2026,review,973,0.53,3.3,True,150.25
-2026-03-14,pg_002,How to Start a Blog,howto,307,0.308,2.3,False,0
-2026-03-14,pg_003,Top 10 VPN Services,review,856,0.633,4.7,True,223.52
-2026-03-14,pg_004,Budget Meal Planning,guide,338,0.536,3.1,False,0
-2026-03-14,pg_005,Remote Work Setup Guide,guide,354,0.436,2.3,True,62.88
-2026-03-14,pg_006,SEO Basics 2026,howto,307,0.504,4.6,False,0
-2026-03-14,pg_007,Old Product Roundup,review,51,0.628,4.3,True,4.42
-2026-03-14,pg_008,Fitness Tracker Comparison,review,654,0.541,4.0,True,61.66
-2026-03-15,pg_001,Best Laptops 2026,review,930,0.498,4.0,True,150.87
-2026-03-15,pg_002,How to Start a Blog,howto,501,0.526,3.5,False,0
-2026-03-15,pg_003,Top 10 VPN Services,review,974,0.551,1.6,True,156.38
-2026-03-15,pg_004,Budget Meal Planning,guide,352,0.41,1.2,False,0
-2026-03-15,pg_005,Remote Work Setup Guide,guide,354,0.481,1.2,False,0
-2026-03-15,pg_006,SEO Basics 2026,howto,298,0.646,4.4,False,0
-2026-03-15,pg_007,Old Product Roundup,review,45,0.485,3.2,True,12.33
-2026-03-15,pg_008,Fitness Tracker Comparison,review,775,0.624,3.6,True,130.9
-2026-03-16,pg_001,Best Laptops 2026,review,632,0.325,1.4,False,0
-2026-03-16,pg_002,How to Start a Blog,howto,362,0.586,3.0,True,40.52
-2026-03-16,pg_003,Top 10 VPN Services,review,770,0.476,3.1,True,110.27
-2026-03-16,pg_004,Budget Meal Planning,guide,347,0.464,2.4,False,0
-2026-03-16,pg_005,Remote Work Setup Guide,guide,469,0.559,1.3,True,102.99
-2026-03-16,pg_006,SEO Basics 2026,howto,348,0.589,3.6,False,0
-2026-03-16,pg_007,Old Product Roundup,review,55,0.433,3.3,True,7.56
-2026-03-16,pg_008,Fitness Tracker Comparison,review,1024,0.579,2.6,True,291.33
-2026-03-17,pg_001,Best Laptops 2026,review,708,0.451,4.2,False,0
-2026-03-17,pg_002,How to Start a Blog,howto,440,0.632,4.0,False,0
-2026-03-17,pg_003,Top 10 VPN Services,review,812,0.558,2.7,True,114.21
-2026-03-17,pg_004,Budget Meal Planning,guide,323,0.386,4.8,False,0
-2026-03-17,pg_005,Remote Work Setup Guide,guide,334,0.355,1.3,False,0
-2026-03-17,pg_006,SEO Basics 2026,howto,304,0.608,4.3,False,0
-2026-03-17,pg_007,Old Product Roundup,review,32,0.435,4.1,True,4.61
-2026-03-17,pg_008,Fitness Tracker Comparison,review,637,0.633,4.1,False,0
-2026-03-18,pg_001,Best Laptops 2026,review,639,0.475,2.6,True,69.9
-2026-03-18,pg_002,How to Start a Blog,howto,386,0.414,4.0,False,0
-2026-03-18,pg_003,Top 10 VPN Services,review,816,0.424,4.2,True,211.16
-2026-03-18,pg_004,Budget Meal Planning,guide,368,0.679,4.9,False,0
-2026-03-18,pg_005,Remote Work Setup Guide,guide,347,0.453,3.1,False,0
-2026-03-18,pg_006,SEO Basics 2026,howto,476,0.621,1.6,True,100.1
-2026-03-18,pg_007,Old Product Roundup,review,55,0.522,1.4,False,0
-2026-03-18,pg_008,Fitness Tracker Comparison,review,968,0.414,4.1,True,267.48
-2026-03-19,pg_001,Best Laptops 2026,review,630,0.475,4.8,True,102.55
-2026-03-19,pg_002,How to Start a Blog,howto,363,0.311,1.2,False,0
-2026-03-19,pg_003,Top 10 VPN Services,review,673,0.698,2.5,True,190.26
-2026-03-19,pg_004,Budget Meal Planning,guide,481,0.56,4.2,True,58.55
-2026-03-19,pg_005,Remote Work Setup Guide,guide,479,0.578,1.6,False,0
-2026-03-19,pg_006,SEO Basics 2026,howto,387,0.302,1.3,True,100.13
-2026-03-19,pg_007,Old Product Roundup,review,46,0.591,3.1,True,5.61
-2026-03-19,pg_008,Fitness Tracker Comparison,review,704,0.319,2.7,True,115.65
-2026-03-20,pg_001,Best Laptops 2026,review,613,0.662,3.4,True,109.63
-2026-03-20,pg_002,How to Start a Blog,howto,338,0.357,2.7,False,0
-2026-03-20,pg_003,Top 10 VPN Services,review,675,0.467,3.7,True,198.22
-2026-03-20,pg_004,Budget Meal Planning,guide,296,0.51,3.0,False,0
-2026-03-20,pg_005,Remote Work Setup Guide,guide,412,0.456,2.9,False,0
-2026-03-20,pg_006,SEO Basics 2026,howto,515,0.401,1.1,False,0
-2026-03-20,pg_007,Old Product Roundup,review,40,0.593,3.5,True,9.35
-2026-03-20,pg_008,Fitness Tracker Comparison,review,719,0.318,3.2,False,0
-2026-03-21,pg_001,Best Laptops 2026,review,644,0.612,2.9,True,133.91
-2026-03-21,pg_002,How to Start a Blog,howto,474,0.325,4.1,False,0
-2026-03-21,pg_003,Top 10 VPN Services,review,700,0.318,1.8,True,198.34
-2026-03-21,pg_004,Budget Meal Planning,guide,403,0.696,3.2,True,96.04
-2026-03-21,pg_005,Remote Work Setup Guide,guide,325,0.443,4.1,False,0
-2026-03-21,pg_006,SEO Basics 2026,howto,359,0.35,2.5,False,0
-2026-03-21,pg_007,Old Product Roundup,review,51,0.658,2.5,False,0
-2026-03-21,pg_008,Fitness Tracker Comparison,review,798,0.499,4.7,True,199.73
-2026-03-22,pg_001,Best Laptops 2026,review,908,0.332,3.4,False,0
-2026-03-22,pg_002,How to Start a Blog,howto,410,0.428,1.3,False,0
-2026-03-22,pg_003,Top 10 VPN Services,review,707,0.541,2.7,True,97.49
-2026-03-22,pg_004,Budget Meal Planning,guide,290,0.648,2.4,False,0
-2026-03-22,pg_005,Remote Work Setup Guide,guide,345,0.692,4.8,True,72.24
-2026-03-22,pg_006,SEO Basics 2026,howto,367,0.62,3.7,False,0
-2026-03-22,pg_007,Old Product Roundup,review,35,0.543,4.1,True,2.34
-2026-03-22,pg_008,Fitness Tracker Comparison,review,933,0.447,2.5,True,187.79
-2026-03-23,pg_001,Best Laptops 2026,review,885,0.68,2.5,True,171.23
-2026-03-23,pg_002,How to Start a Blog,howto,407,0.459,3.6,True,31.89
-2026-03-23,pg_003,Top 10 VPN Services,review,913,0.5,2.5,True,105.4
-2026-03-23,pg_004,Budget Meal Planning,guide,342,0.479,5.0,True,95.46
-2026-03-23,pg_005,Remote Work Setup Guide,guide,397,0.349,4.4,False,0
-2026-03-23,pg_006,SEO Basics 2026,howto,495,0.478,1.4,False,0
-2026-03-23,pg_007,Old Product Roundup,review,54,0.428,2.4,True,10.02
-2026-03-23,pg_008,Fitness Tracker Comparison,review,987,0.641,3.8,False,0
-2026-03-24,pg_001,Best Laptops 2026,review,866,0.617,3.0,True,86.81
-2026-03-24,pg_002,How to Start a Blog,howto,313,0.616,1.1,False,0
-2026-03-24,pg_003,Top 10 VPN Services,review,737,0.621,3.2,True,52.74
-2026-03-24,pg_004,Budget Meal Planning,guide,354,0.7,3.9,False,0
-2026-03-24,pg_005,Remote Work Setup Guide,guide,464,0.629,1.3,False,0
-2026-03-24,pg_006,SEO Basics 2026,howto,434,0.48,3.7,False,0
-2026-03-24,pg_007,Old Product Roundup,review,55,0.612,3.6,True,16.04
-2026-03-24,pg_008,Fitness Tracker Comparison,review,767,0.664,1.2,True,67.69
-2026-03-25,pg_001,Best Laptops 2026,review,639,0.429,3.8,True,182.26
-2026-03-25,pg_002,How to Start a Blog,howto,494,0.638,2.0,False,0
-2026-03-25,pg_003,Top 10 VPN Services,review,824,0.35,2.2,True,144.73
-2026-03-25,pg_004,Budget Meal Planning,guide,320,0.677,1.6,False,0
-2026-03-25,pg_005,Remote Work Setup Guide,guide,452,0.542,4.4,False,0
-2026-03-25,pg_006,SEO Basics 2026,howto,478,0.311,1.2,False,0
-2026-03-25,pg_007,Old Product Roundup,review,47,0.56,4.1,True,9.86
-2026-03-25,pg_008,Fitness Tracker Comparison,review,799,0.551,2.2,False,0
-2026-03-26,pg_001,Best Laptops 2026,review,791,0.622,3.7,True,53.98
-2026-03-26,pg_002,How to Start a Blog,howto,294,0.476,2.9,True,59.29
-2026-03-26,pg_003,Top 10 VPN Services,review,710,0.587,3.9,False,0
-2026-03-26,pg_004,Budget Meal Planning,guide,514,0.352,2.5,False,0
-2026-03-26,pg_005,Remote Work Setup Guide,guide,356,0.487,2.1,True,26.42
-2026-03-26,pg_006,SEO Basics 2026,howto,349,0.454,3.5,True,92.95
-2026-03-26,pg_007,Old Product Roundup,review,35,0.431,3.3,True,8.43
-2026-03-26,pg_008,Fitness Tracker Comparison,review,799,0.506,3.0,True,44.58
-2026-03-27,pg_001,Best Laptops 2026,review,1013,0.502,4.9,True,140.02
-2026-03-27,pg_002,How to Start a Blog,howto,292,0.498,4.5,False,0
-2026-03-27,pg_003,Top 10 VPN Services,review,785,0.515,4.4,True,212.43
-2026-03-27,pg_004,Budget Meal Planning,guide,454,0.606,2.5,False,0
-2026-03-27,pg_005,Remote Work Setup Guide,guide,416,0.378,3.2,True,73.24
-2026-03-27,pg_006,SEO Basics 2026,howto,463,0.412,5.0,False,0
-2026-03-27,pg_007,Old Product Roundup,review,34,0.69,2.6,True,4.58
-2026-03-27,pg_008,Fitness Tracker Comparison,review,1010,0.602,1.8,True,176.77
-2026-03-28,pg_001,Best Laptops 2026,review,581,0.355,2.3,True,95.43
-2026-03-28,pg_002,How to Start a Blog,howto,425,0.506,2.3,False,0
-2026-03-28,pg_003,Top 10 VPN Services,review,638,0.696,4.0,True,85.55
-2026-03-28,pg_004,Budget Meal Planning,guide,478,0.513,3.8,True,121.38
-2026-03-28,pg_005,Remote Work Setup Guide,guide,368,0.57,4.9,False,0
-2026-03-28,pg_006,SEO Basics 2026,howto,471,0.59,3.8,True,79.43
-2026-03-28,pg_007,Old Product Roundup,review,57,0.613,4.1,True,13.13
-2026-03-28,pg_008,Fitness Tracker Comparison,review,840,0.368,3.5,True,218.65
-2026-03-29,pg_001,Best Laptops 2026,review,630,0.572,1.1,False,0
-2026-03-29,pg_002,How to Start a Blog,howto,306,0.308,2.3,True,68.12
-2026-03-29,pg_003,Top 10 VPN Services,review,756,0.61,4.7,False,0
-2026-03-29,pg_004,Budget Meal Planning,guide,456,0.325,1.6,True,59.86
-2026-03-29,pg_005,Remote Work Setup Guide,guide,438,0.51,2.3,True,121.78
-2026-03-29,pg_006,SEO Basics 2026,howto,362,0.442,4.1,False,0
-2026-03-29,pg_007,Old Product Roundup,review,48,0.577,3.4,True,5.36
-2026-03-29,pg_008,Fitness Tracker Comparison,review,827,0.39,4.9,True,101.1
-2026-03-30,pg_001,Best Laptops 2026,review,659,0.582,2.3,True,186.78
-2026-03-30,pg_002,How to Start a Blog,howto,470,0.409,1.5,False,0
-2026-03-30,pg_003,Top 10 VPN Services,review,742,0.692,4.3,False,0
-2026-03-30,pg_004,Budget Meal Planning,guide,473,0.416,2.2,False,0
-2026-03-30,pg_005,Remote Work Setup Guide,guide,363,0.477,2.0,False,0
-2026-03-30,pg_006,SEO Basics 2026,howto,328,0.515,4.7,False,0
-2026-03-30,pg_007,Old Product Roundup,review,35,0.546,3.3,True,7.61
-2026-03-30,pg_008,Fitness Tracker Comparison,review,814,0.555,1.2,True,186.68
-2026-03-31,pg_001,Best Laptops 2026,review,608,0.608,1.0,True,171.62
-2026-03-31,pg_002,How to Start a Blog,howto,377,0.674,4.5,False,0
-2026-03-31,pg_003,Top 10 VPN Services,review,655,0.686,2.3,True,181.42
-2026-03-31,pg_004,Budget Meal Planning,guide,301,0.53,3.1,False,0
-2026-03-31,pg_005,Remote Work Setup Guide,guide,504,0.665,1.7,False,0
-2026-03-31,pg_006,SEO Basics 2026,howto,322,0.668,5.0,False,0
-2026-03-31,pg_007,Old Product Roundup,review,44,0.675,4.8,False,0
-2026-03-31,pg_008,Fitness Tracker Comparison,review,980,0.304,3.3,True,289.83
-2026-04-01,pg_001,Best Laptops 2026,review,696,0.696,3.2,True,198.11
-2026-04-01,pg_002,How to Start a Blog,howto,484,0.487,1.8,True,43.86
-2026-04-01,pg_003,Top 10 VPN Services,review,780,0.403,1.7,True,193.2
-2026-04-01,pg_004,Budget Meal Planning,guide,416,0.603,1.7,False,0
-2026-04-01,pg_005,Remote Work Setup Guide,guide,495,0.631,3.1,True,107.57
-2026-04-01,pg_006,SEO Basics 2026,howto,324,0.356,2.3,True,37.32
-2026-04-01,pg_007,Old Product Roundup,review,37,0.602,4.8,True,8.54
-2026-04-01,pg_008,Fitness Tracker Comparison,review,565,0.561,3.8,True,44.95
-2026-04-02,pg_001,Best Laptops 2026,review,707,0.462,3.0,False,0
-2026-04-02,pg_002,How to Start a Blog,howto,448,0.424,1.5,False,0
-2026-04-02,pg_003,Top 10 VPN Services,review,701,0.546,1.9,True,61.9
-2026-04-02,pg_004,Budget Meal Planning,guide,459,0.542,2.7,False,0
-2026-04-02,pg_005,Remote Work Setup Guide,guide,392,0.515,3.7,True,43.85
-2026-04-02,pg_006,SEO Basics 2026,howto,461,0.649,1.3,False,0
-2026-04-02,pg_007,Old Product Roundup,review,50,0.331,3.3,True,9.35
-2026-04-02,pg_008,Fitness Tracker Comparison,review,802,0.529,1.6,True,144.43
-2026-04-03,pg_001,Best Laptops 2026,review,615,0.382,3.3,True,109.22
-2026-04-03,pg_002,How to Start a Blog,howto,474,0.481,3.1,False,0
-2026-04-03,pg_003,Top 10 VPN Services,review,587,0.485,4.2,True,87.46
-2026-04-03,pg_004,Budget Meal Planning,guide,475,0.598,3.3,True,64.66
-2026-04-03,pg_005,Remote Work Setup Guide,guide,295,0.698,4.7,True,83.62
-2026-04-03,pg_006,SEO Basics 2026,howto,287,0.464,4.1,False,0
-2026-04-03,pg_007,Old Product Roundup,review,57,0.558,2.7,False,0
-2026-04-03,pg_008,Fitness Tracker Comparison,review,743,0.648,4.6,True,163.97
-2026-04-04,pg_001,Best Laptops 2026,review,877,0.516,3.6,True,82.98
-2026-04-04,pg_002,How to Start a Blog,howto,408,0.512,3.9,True,20.75
-2026-04-04,pg_003,Top 10 VPN Services,review,570,0.419,3.7,True,104.3
-2026-04-04,pg_004,Budget Meal Planning,guide,477,0.399,2.4,True,135.64
-2026-04-04,pg_005,Remote Work Setup Guide,guide,454,0.345,4.2,False,0
-2026-04-04,pg_006,SEO Basics 2026,howto,463,0.654,1.1,True,34.83
-2026-04-04,pg_007,Old Product Roundup,review,32,0.539,3.8,True,7.52
-2026-04-04,pg_008,Fitness Tracker Comparison,review,753,0.394,1.9,False,0
-2026-04-05,pg_001,Best Laptops 2026,review,587,0.502,2.2,False,0
-2026-04-05,pg_002,How to Start a Blog,howto,455,0.428,3.4,False,0
-2026-04-05,pg_003,Top 10 VPN Services,review,713,0.421,1.6,True,75.05
-2026-04-05,pg_004,Budget Meal Planning,guide,352,0.324,4.8,False,0
-2026-04-05,pg_005,Remote Work Setup Guide,guide,498,0.55,2.7,False,0
-2026-04-05,pg_006,SEO Basics 2026,howto,513,0.677,3.7,False,0
-2026-04-05,pg_007,Old Product Roundup,review,40,0.467,1.6,True,9.54
-2026-04-05,pg_008,Fitness Tracker Comparison,review,787,0.64,2.2,True,197.89
-2026-04-06,pg_001,Best Laptops 2026,review,999,0.525,4.9,True,83.44
-2026-04-06,pg_002,How to Start a Blog,howto,338,0.381,3.6,False,0
-2026-04-06,pg_003,Top 10 VPN Services,review,966,0.337,3.9,True,113.13
-2026-04-06,pg_004,Budget Meal Planning,guide,441,0.541,4.5,True,106.03
-2026-04-06,pg_005,Remote Work Setup Guide,guide,453,0.524,2.9,False,0
-2026-04-06,pg_006,SEO Basics 2026,howto,359,0.683,1.1,False,0
-2026-04-06,pg_007,Old Product Roundup,review,57,0.347,5.0,True,6.31
-2026-04-06,pg_008,Fitness Tracker Comparison,review,850,0.382,4.7,True,207.3
-2026-04-07,pg_001,Best Laptops 2026,review,742,0.513,2.4,True,132.23
-2026-04-07,pg_002,How to Start a Blog,howto,399,0.339,4.9,False,0
-2026-04-07,pg_003,Top 10 VPN Services,review,963,0.666,2.5,True,183.58
-2026-04-07,pg_004,Budget Meal Planning,guide,333,0.358,2.0,False,0
-2026-04-07,pg_005,Remote Work Setup Guide,guide,418,0.467,1.6,False,0
-2026-04-07,pg_006,SEO Basics 2026,howto,371,0.633,3.0,False,0
-2026-04-07,pg_007,Old Product Roundup,review,49,0.403,4.3,False,0
-2026-04-07,pg_008,Fitness Tracker Comparison,review,868,0.496,1.7,True,80.13
-2026-04-08,pg_001,Best Laptops 2026,review,905,0.495,4.7,True,190.46
-2026-04-08,pg_002,How to Start a Blog,howto,294,0.314,4.4,False,0
-2026-04-08,pg_003,Top 10 VPN Services,review,880,0.606,2.6,False,0
-2026-04-08,pg_004,Budget Meal Planning,guide,335,0.583,1.0,False,0
-2026-04-08,pg_005,Remote Work Setup Guide,guide,369,0.547,3.7,False,0
-2026-04-08,pg_006,SEO Basics 2026,howto,395,0.495,1.0,False,0
-2026-04-08,pg_007,Old Product Roundup,review,31,0.512,2.1,False,0
-2026-04-08,pg_008,Fitness Tracker Comparison,review,568,0.625,3.7,False,0
-2026-04-09,pg_001,Best Laptops 2026,review,996,0.343,1.4,True,97.59
-2026-04-09,pg_002,How to Start a Blog,howto,406,0.626,2.1,False,0
-2026-04-09,pg_003,Top 10 VPN Services,review,739,0.462,3.3,False,0
-2026-04-09,pg_004,Budget Meal Planning,guide,334,0.574,4.4,False,0
-2026-04-09,pg_005,Remote Work Setup Guide,guide,485,0.604,1.4,False,0
-2026-04-09,pg_006,SEO Basics 2026,howto,412,0.322,1.0,True,72.09
-2026-04-09,pg_007,Old Product Roundup,review,43,0.614,3.3,False,0
-2026-04-09,pg_008,Fitness Tracker Comparison,review,605,0.511,1.2,True,161.55
-2026-04-10,pg_001,Best Laptops 2026,review,986,0.49,1.2,True,277.46
-2026-04-10,pg_002,How to Start a Blog,howto,495,0.525,1.1,False,0
-2026-04-10,pg_003,Top 10 VPN Services,review,710,0.685,3.3,True,162.01
-2026-04-10,pg_004,Budget Meal Planning,guide,375,0.331,1.6,True,97.0
-2026-04-10,pg_005,Remote Work Setup Guide,guide,373,0.659,2.3,False,0
-2026-04-10,pg_006,SEO Basics 2026,howto,313,0.695,3.9,False,0
-2026-04-10,pg_007,Old Product Roundup,review,57,0.321,2.7,False,0
-2026-04-10,pg_008,Fitness Tracker Comparison,review,723,0.608,4.8,True,175.97
-2026-04-11,pg_001,Best Laptops 2026,review,574,0.409,5.0,True,79.76
-2026-04-11,pg_002,How to Start a Blog,howto,505,0.473,3.7,False,0
-2026-04-11,pg_003,Top 10 VPN Services,review,601,0.547,4.2,True,42.38
-2026-04-11,pg_004,Budget Meal Planning,guide,317,0.585,3.5,False,0
-2026-04-11,pg_005,Remote Work Setup Guide,guide,356,0.343,1.0,False,0
-2026-04-11,pg_006,SEO Basics 2026,howto,366,0.408,1.5,True,59.37
-2026-04-11,pg_007,Old Product Roundup,review,46,0.463,1.1,True,3.37
-2026-04-11,pg_008,Fitness Tracker Comparison,review,847,0.43,2.5,True,124.47
-2026-04-12,pg_001,Best Laptops 2026,review,600,0.66,4.6,False,0
-2026-04-12,pg_002,How to Start a Blog,howto,417,0.368,2.5,True,52.24
-2026-04-12,pg_003,Top 10 VPN Services,review,796,0.325,2.7,True,136.16
-2026-04-12,pg_004,Budget Meal Planning,guide,298,0.401,2.0,False,0
-2026-04-12,pg_005,Remote Work Setup Guide,guide,422,0.378,1.4,False,0
-2026-04-12,pg_006,SEO Basics 2026,howto,507,0.433,3.5,False,0
-2026-04-12,pg_007,Old Product Roundup,review,40,0.434,4.3,False,0
-2026-04-12,pg_008,Fitness Tracker Comparison,review,1027,0.354,2.3,False,0
-2026-04-13,pg_001,Best Laptops 2026,review,656,0.426,4.9,False,0
-2026-04-13,pg_002,How to Start a Blog,howto,349,0.578,3.0,False,0
-2026-04-13,pg_003,Top 10 VPN Services,review,676,0.45,4.3,True,53.05
-2026-04-13,pg_004,Budget Meal Planning,guide,415,0.537,3.2,False,0
-2026-04-13,pg_005,Remote Work Setup Guide,guide,412,0.681,2.8,False,0
-2026-04-13,pg_006,SEO Basics 2026,howto,385,0.417,3.8,False,0
-2026-04-13,pg_007,Old Product Roundup,review,52,0.464,3.0,True,5.75
-2026-04-13,pg_008,Fitness Tracker Comparison,review,876,0.586,4.2,True,260.76
-2026-04-14,pg_001,Best Laptops 2026,review,790,0.46,3.0,False,0
-2026-04-14,pg_002,How to Start a Blog,howto,446,0.517,4.2,False,0
-2026-04-14,pg_003,Top 10 VPN Services,review,989,0.515,3.6,True,239.57
-2026-04-14,pg_004,Budget Meal Planning,guide,437,0.442,3.6,True,129.31
-2026-04-14,pg_005,Remote Work Setup Guide,guide,442,0.46,4.0,False,0
-2026-04-14,pg_006,SEO Basics 2026,howto,383,0.304,2.0,False,0
-2026-04-14,pg_007,Old Product Roundup,review,45,0.532,3.3,True,6.65
-2026-04-14,pg_008,Fitness Tracker Comparison,review,930,0.535,3.0,True,52.21
-2026-04-15,pg_001,Best Laptops 2026,review,610,0.466,4.8,True,173.95
-2026-04-15,pg_002,How to Start a Blog,howto,314,0.425,2.8,True,53.61
-2026-04-15,pg_003,Top 10 VPN Services,review,788,0.475,3.8,True,98.55
-2026-04-15,pg_004,Budget Meal Planning,guide,474,0.346,4.4,False,0
-2026-04-15,pg_005,Remote Work Setup Guide,guide,442,0.366,4.9,True,41.38
-2026-04-15,pg_006,SEO Basics 2026,howto,318,0.524,4.8,True,48.1
-2026-04-15,pg_007,Old Product Roundup,review,36,0.556,2.7,True,7.33
-2026-04-15,pg_008,Fitness Tracker Comparison,review,654,0.537,2.6,True,66.35
-2026-04-16,pg_001,Best Laptops 2026,review,921,0.623,1.3,True,246.82
-2026-04-16,pg_002,How to Start a Blog,howto,324,0.43,2.8,True,86.07
-2026-04-16,pg_003,Top 10 VPN Services,review,813,0.556,3.4,True,159.96
-2026-04-16,pg_004,Budget Meal Planning,guide,363,0.638,3.5,False,0
-2026-04-16,pg_005,Remote Work Setup Guide,guide,449,0.419,3.5,True,37.49
-2026-04-16,pg_006,SEO Basics 2026,howto,308,0.422,1.7,False,0
-2026-04-16,pg_007,Old Product Roundup,review,45,0.467,1.6,True,4.34
-2026-04-16,pg_008,Fitness Tracker Comparison,review,865,0.577,3.6,False,0
-2026-04-17,pg_001,Best Laptops 2026,review,826,0.496,1.6,True,134.43
-2026-04-17,pg_002,How to Start a Blog,howto,292,0.444,1.0,True,74.11
-2026-04-17,pg_003,Top 10 VPN Services,review,1022,0.502,3.0,True,157.29
-2026-04-17,pg_004,Budget Meal Planning,guide,481,0.495,1.3,True,115.57
-2026-04-17,pg_005,Remote Work Setup Guide,guide,350,0.41,3.2,True,57.52
-2026-04-17,pg_006,SEO Basics 2026,howto,458,0.606,3.2,True,35.98
-2026-04-17,pg_007,Old Product Roundup,review,52,0.629,2.5,False,0
-2026-04-17,pg_008,Fitness Tracker Comparison,review,579,0.588,3.2,False,0
-2026-04-18,pg_001,Best Laptops 2026,review,609,0.632,4.0,True,182.6
-2026-04-18,pg_002,How to Start a Blog,howto,387,0.439,4.3,False,0
-2026-04-18,pg_003,Top 10 VPN Services,review,1037,0.61,1.9,False,0
-2026-04-18,pg_004,Budget Meal Planning,guide,421,0.44,3.8,False,0
-2026-04-18,pg_005,Remote Work Setup Guide,guide,319,0.356,1.8,True,20.68
-2026-04-18,pg_006,SEO Basics 2026,howto,364,0.412,3.2,False,0
-2026-04-18,pg_007,Old Product Roundup,review,50,0.416,2.1,False,0
-2026-04-18,pg_008,Fitness Tracker Comparison,review,1033,0.572,1.4,False,0
-2026-04-19,pg_001,Best Laptops 2026,review,937,0.668,5.0,False,0
-2026-04-19,pg_002,How to Start a Blog,howto,310,0.646,2.0,False,0
-2026-04-19,pg_003,Top 10 VPN Services,review,957,0.605,3.7,True,186.0
-2026-04-19,pg_004,Budget Meal Planning,guide,344,0.466,2.8,False,0
-2026-04-19,pg_005,Remote Work Setup Guide,guide,491,0.337,3.1,True,139.49
-2026-04-19,pg_006,SEO Basics 2026,howto,368,0.68,2.3,True,89.62
-2026-04-19,pg_007,Old Product Roundup,review,51,0.592,2.8,True,7.12
-2026-04-19,pg_008,Fitness Tracker Comparison,review,590,0.514,1.9,True,60.75
-2026-04-20,pg_001,Best Laptops 2026,review,688,0.631,2.4,True,131.78
-2026-04-20,pg_002,How to Start a Blog,howto,396,0.437,3.7,True,29.66
-2026-04-20,pg_003,Top 10 VPN Services,review,936,0.484,1.5,False,0
-2026-04-20,pg_004,Budget Meal Planning,guide,385,0.3,4.8,True,85.53
-2026-04-20,pg_005,Remote Work Setup Guide,guide,311,0.56,1.6,False,0
-2026-04-20,pg_006,SEO Basics 2026,howto,345,0.562,2.0,False,0
-2026-04-20,pg_007,Old Product Roundup,review,55,0.366,2.6,True,12.37
-2026-04-20,pg_008,Fitness Tracker Comparison,review,672,0.562,3.8,True,113.7
-2026-04-21,pg_001,Best Laptops 2026,review,623,0.39,3.7,True,139.49
-2026-04-21,pg_002,How to Start a Blog,howto,476,0.695,2.7,True,32.23
-2026-04-21,pg_003,Top 10 VPN Services,review,743,0.592,1.4,True,200.79
-2026-04-21,pg_004,Budget Meal Planning,guide,312,0.609,4.0,True,93.05
-2026-04-21,pg_005,Remote Work Setup Guide,guide,314,0.512,1.0,False,0
-2026-04-21,pg_006,SEO Basics 2026,howto,385,0.589,3.5,True,58.88
-2026-04-21,pg_007,Old Product Roundup,review,50,0.644,1.3,True,11.91
-2026-04-21,pg_008,Fitness Tracker Comparison,review,842,0.454,4.9,True,71.53
-2026-04-22,pg_001,Best Laptops 2026,review,692,0.334,3.2,True,139.71
-2026-04-22,pg_002,How to Start a Blog,howto,466,0.576,4.4,False,0
-2026-04-22,pg_003,Top 10 VPN Services,review,704,0.507,3.0,True,87.22
-2026-04-22,pg_004,Budget Meal Planning,guide,293,0.659,4.8,False,0
-2026-04-22,pg_005,Remote Work Setup Guide,guide,307,0.5,3.4,False,0
-2026-04-22,pg_006,SEO Basics 2026,howto,514,0.695,4.7,True,136.31
-2026-04-22,pg_007,Old Product Roundup,review,46,0.446,3.7,True,13.28
-2026-04-22,pg_008,Fitness Tracker Comparison,review,929,0.307,1.3,True,55.7
-2026-04-23,pg_001,Best Laptops 2026,review,589,0.616,3.0,True,103.23
-2026-04-23,pg_002,How to Start a Blog,howto,379,0.581,1.3,False,0
-2026-04-23,pg_003,Top 10 VPN Services,review,855,0.411,2.2,True,86.18
-2026-04-23,pg_004,Budget Meal Planning,guide,473,0.515,2.6,False,0
-2026-04-23,pg_005,Remote Work Setup Guide,guide,480,0.572,1.3,False,0
-2026-04-23,pg_006,SEO Basics 2026,howto,455,0.639,1.2,True,72.17
-2026-04-23,pg_007,Old Product Roundup,review,43,0.544,2.2,True,10.11
-2026-04-23,pg_008,Fitness Tracker Comparison,review,617,0.583,3.8,True,177.85
-2026-04-24,pg_001,Best Laptops 2026,review,811,0.613,3.9,True,66.29
-2026-04-24,pg_002,How to Start a Blog,howto,467,0.408,4.5,False,0
-2026-04-24,pg_003,Top 10 VPN Services,review,574,0.623,2.1,True,130.92
-2026-04-24,pg_004,Budget Meal Planning,guide,418,0.331,2.8,False,0
-2026-04-24,pg_005,Remote Work Setup Guide,guide,399,0.527,2.5,True,30.21
-2026-04-24,pg_006,SEO Basics 2026,howto,417,0.589,1.9,False,0
-2026-04-24,pg_007,Old Product Roundup,review,32,0.645,2.0,True,4.66
-2026-04-24,pg_008,Fitness Tracker Comparison,review,632,0.672,4.4,True,176.0
-2026-04-25,pg_001,Best Laptops 2026,review,915,0.468,2.3,True,210.52
-2026-04-25,pg_002,How to Start a Blog,howto,345,0.331,2.5,False,0
-2026-04-25,pg_003,Top 10 VPN Services,review,992,0.372,4.2,False,0
-2026-04-25,pg_004,Budget Meal Planning,guide,508,0.328,2.9,True,132.7
-2026-04-25,pg_005,Remote Work Setup Guide,guide,358,0.521,1.0,True,68.36
-2026-04-25,pg_006,SEO Basics 2026,howto,352,0.549,2.9,False,0
-2026-04-25,pg_007,Old Product Roundup,review,44,0.609,1.8,False,0
-2026-04-25,pg_008,Fitness Tracker Comparison,review,925,0.398,1.0,True,100.13
-2026-04-26,pg_001,Best Laptops 2026,review,726,0.636,4.5,False,0
-2026-04-26,pg_002,How to Start a Blog,howto,280,0.563,4.4,False,0
-2026-04-26,pg_003,Top 10 VPN Services,review,609,0.512,2.0,True,39.57
-2026-04-26,pg_004,Budget Meal Planning,guide,519,0.585,1.4,False,0
-2026-04-26,pg_005,Remote Work Setup Guide,guide,495,0.508,3.8,False,0
-2026-04-26,pg_006,SEO Basics 2026,howto,513,0.334,1.4,True,130.81
-2026-04-26,pg_007,Old Product Roundup,review,33,0.527,2.7,False,0
-2026-04-26,pg_008,Fitness Tracker Comparison,review,673,0.404,2.3,False,0
-2026-04-27,pg_001,Best Laptops 2026,review,896,0.594,2.3,True,61.53
-2026-04-27,pg_002,How to Start a Blog,howto,328,0.612,3.3,True,29.88
-2026-04-27,pg_003,Top 10 VPN Services,review,783,0.463,3.1,False,0
-2026-04-27,pg_004,Budget Meal Planning,guide,329,0.423,2.1,True,29.41
-2026-04-27,pg_005,Remote Work Setup Guide,guide,444,0.631,3.8,True,114.99
-2026-04-27,pg_006,SEO Basics 2026,howto,358,0.336,2.0,False,0
-2026-04-27,pg_007,Old Product Roundup,review,45,0.571,2.0,False,0
-2026-04-27,pg_008,Fitness Tracker Comparison,review,574,0.462,2.8,True,64.55
-2026-04-28,pg_001,Best Laptops 2026,review,781,0.622,1.6,True,201.18
-2026-04-28,pg_002,How to Start a Blog,howto,515,0.352,4.3,False,0
-2026-04-28,pg_003,Top 10 VPN Services,review,862,0.558,3.3,True,218.25
-2026-04-28,pg_004,Budget Meal Planning,guide,285,0.326,4.6,False,0
-2026-04-28,pg_005,Remote Work Setup Guide,guide,310,0.662,4.3,False,0
-2026-04-28,pg_006,SEO Basics 2026,howto,290,0.484,1.7,False,0
-2026-04-28,pg_007,Old Product Roundup,review,53,0.458,1.1,True,4.94
-2026-04-28,pg_008,Fitness Tracker Comparison,review,663,0.375,2.1,False,0
-2026-04-29,pg_001,Best Laptops 2026,review,576,0.548,2.0,True,88.13
-2026-04-29,pg_002,How to Start a Blog,howto,412,0.324,2.1,True,41.14
-2026-04-29,pg_003,Top 10 VPN Services,review,984,0.51,3.5,False,0
-2026-04-29,pg_004,Budget Meal Planning,guide,470,0.696,4.1,False,0
-2026-04-29,pg_005,Remote Work Setup Guide,guide,410,0.494,4.7,False,0
-2026-04-29,pg_006,SEO Basics 2026,howto,373,0.372,2.3,True,102.18
-2026-04-29,pg_007,Old Product Roundup,review,52,0.323,5.0,True,12.57
-2026-04-29,pg_008,Fitness Tracker Comparison,review,1039,0.69,1.4,True,121.18
-2026-04-30,pg_001,Best Laptops 2026,review,951,0.667,1.2,False,0
-2026-04-30,pg_002,How to Start a Blog,howto,332,0.639,4.2,False,0
-2026-04-30,pg_003,Top 10 VPN Services,review,962,0.638,1.7,True,241.99
-2026-04-30,pg_004,Budget Meal Planning,guide,447,0.666,1.1,False,0
-2026-04-30,pg_005,Remote Work Setup Guide,guide,507,0.525,3.3,True,150.58
-2026-04-30,pg_006,SEO Basics 2026,howto,491,0.497,2.2,False,0
-2026-04-30,pg_007,Old Product Roundup,review,33,0.393,1.9,True,1.66
-2026-04-30,pg_008,Fitness Tracker Comparison,review,1000,0.381,1.5,True,279.7
-2026-05-01,pg_001,Best Laptops 2026,review,965,0.429,1.1,True,269.53
-2026-05-01,pg_002,How to Start a Blog,howto,465,0.639,4.4,False,0
-2026-05-01,pg_003,Top 10 VPN Services,review,739,0.677,2.6,True,92.7
-2026-05-01,pg_004,Budget Meal Planning,guide,312,0.363,4.8,False,0
-2026-05-01,pg_005,Remote Work Setup Guide,guide,510,0.56,1.7,False,0
-2026-05-01,pg_006,SEO Basics 2026,howto,446,0.672,4.1,True,87.97
-2026-05-01,pg_007,Old Product Roundup,review,36,0.423,3.8,True,8.36
-2026-05-01,pg_008,Fitness Tracker Comparison,review,1015,0.679,2.6,False,0
-2026-05-02,pg_001,Best Laptops 2026,review,1023,0.313,3.4,False,0
-2026-05-02,pg_002,How to Start a Blog,howto,512,0.388,3.3,False,0
-2026-05-02,pg_003,Top 10 VPN Services,review,627,0.598,2.0,False,0
-2026-05-02,pg_004,Budget Meal Planning,guide,320,0.654,1.4,False,0
-2026-05-02,pg_005,Remote Work Setup Guide,guide,433,0.655,2.8,True,48.66
-2026-05-02,pg_006,SEO Basics 2026,howto,296,0.403,1.4,True,43.36
-2026-05-02,pg_007,Old Product Roundup,review,51,0.688,4.5,True,7.38
-2026-05-02,pg_008,Fitness Tracker Comparison,review,822,0.341,2.9,False,0
-2026-05-03,pg_001,Best Laptops 2026,review,872,0.575,1.7,True,227.98
-2026-05-03,pg_002,How to Start a Blog,howto,350,0.427,4.8,True,32.38
-2026-05-03,pg_003,Top 10 VPN Services,review,740,0.593,3.2,False,0
-2026-05-03,pg_004,Budget Meal Planning,guide,302,0.538,3.5,False,0
-2026-05-03,pg_005,Remote Work Setup Guide,guide,287,0.677,1.7,False,0
-2026-05-03,pg_006,SEO Basics 2026,howto,317,0.341,1.8,True,71.1
-2026-05-03,pg_007,Old Product Roundup,review,50,0.592,2.1,True,5.47
-2026-05-03,pg_008,Fitness Tracker Comparison,review,583,0.529,4.4,True,81.74
-2026-05-04,pg_001,Best Laptops 2026,review,765,0.418,3.6,True,76.44
-2026-05-04,pg_002,How to Start a Blog,howto,286,0.368,2.2,True,74.63
-2026-05-04,pg_003,Top 10 VPN Services,review,708,0.459,3.0,True,51.53
-2026-05-04,pg_004,Budget Meal Planning,guide,410,0.374,4.5,False,0
-2026-05-04,pg_005,Remote Work Setup Guide,guide,386,0.405,2.9,True,45.22
-2026-05-04,pg_006,SEO Basics 2026,howto,294,0.601,3.7,True,39.97
-2026-05-04,pg_007,Old Product Roundup,review,46,0.688,3.4,True,11.97
-2026-05-04,pg_008,Fitness Tracker Comparison,review,952,0.467,3.1,False,0
-2026-05-05,pg_001,Best Laptops 2026,review,787,0.653,2.9,True,216.97
-2026-05-05,pg_002,How to Start a Blog,howto,451,0.501,4.6,False,0
-2026-05-05,pg_003,Top 10 VPN Services,review,885,0.548,1.5,True,82.5
-2026-05-05,pg_004,Budget Meal Planning,guide,516,0.689,4.2,True,80.42
-2026-05-05,pg_005,Remote Work Setup Guide,guide,517,0.474,5.0,False,0
-2026-05-05,pg_006,SEO Basics 2026,howto,480,0.403,4.6,False,0
-2026-05-05,pg_007,Old Product Roundup,review,33,0.455,2.6,True,3.93
-2026-05-05,pg_008,Fitness Tracker Comparison,review,779,0.649,4.1,True,140.72
-2026-05-06,pg_001,Best Laptops 2026,review,761,0.466,1.6,True,182.33
-2026-05-06,pg_002,How to Start a Blog,howto,505,0.67,3.3,True,61.37
-2026-05-06,pg_003,Top 10 VPN Services,review,817,0.438,2.6,True,140.03
-2026-05-06,pg_004,Budget Meal Planning,guide,426,0.315,2.1,True,86.12
-2026-05-06,pg_005,Remote Work Setup Guide,guide,446,0.316,4.6,False,0
-2026-05-06,pg_006,SEO Basics 2026,howto,337,0.598,4.7,False,0
-2026-05-06,pg_007,Old Product Roundup,review,32,0.627,2.2,True,5.53
-2026-05-06,pg_008,Fitness Tracker Comparison,review,894,0.339,4.5,True,262.44
-2026-05-07,pg_001,Best Laptops 2026,review,772,0.63,2.1,True,163.19
-2026-05-07,pg_002,How to Start a Blog,howto,325,0.385,4.3,False,0
-2026-05-07,pg_003,Top 10 VPN Services,review,924,0.647,4.3,True,82.92
-2026-05-07,pg_004,Budget Meal Planning,guide,354,0.503,1.5,False,0
-2026-05-07,pg_005,Remote Work Setup Guide,guide,491,0.312,1.8,False,0
-2026-05-07,pg_006,SEO Basics 2026,howto,480,0.4,2.8,False,0
-2026-05-07,pg_007,Old Product Roundup,review,50,0.41,4.3,True,10.44
-2026-05-07,pg_008,Fitness Tracker Comparison,review,619,0.312,2.5,True,58.43
-2026-05-08,pg_001,Best Laptops 2026,review,977,0.535,2.4,True,267.33
-2026-05-08,pg_002,How to Start a Blog,howto,459,0.576,2.1,False,0
-2026-05-08,pg_003,Top 10 VPN Services,review,638,0.529,4.9,False,0
-2026-05-08,pg_004,Budget Meal Planning,guide,435,0.571,2.1,False,0
-2026-05-08,pg_005,Remote Work Setup Guide,guide,284,0.612,4.1,True,78.92
-2026-05-08,pg_006,SEO Basics 2026,howto,435,0.54,1.0,True,109.3
-2026-05-08,pg_007,Old Product Roundup,review,39,0.687,3.6,True,5.62
-2026-05-08,pg_008,Fitness Tracker Comparison,review,727,0.401,2.9,True,186.17
-2026-05-09,pg_001,Best Laptops 2026,review,750,0.341,3.0,True,195.62
-2026-05-09,pg_002,How to Start a Blog,howto,369,0.559,3.4,True,28.42
-2026-05-09,pg_003,Top 10 VPN Services,review,590,0.695,3.6,False,0
-2026-05-09,pg_004,Budget Meal Planning,guide,342,0.584,4.6,True,29.92
-2026-05-09,pg_005,Remote Work Setup Guide,guide,463,0.66,4.2,False,0
-2026-05-09,pg_006,SEO Basics 2026,howto,424,0.564,3.7,False,0
-2026-05-09,pg_007,Old Product Roundup,review,49,0.699,2.0,True,7.21
-2026-05-09,pg_008,Fitness Tracker Comparison,review,576,0.583,3.3,True,133.42
-2026-05-10,pg_001,Best Laptops 2026,review,666,0.514,4.1,False,0
-2026-05-10,pg_002,How to Start a Blog,howto,441,0.503,4.4,False,0
-2026-05-10,pg_003,Top 10 VPN Services,review,980,0.372,1.4,True,112.37
-2026-05-10,pg_004,Budget Meal Planning,guide,474,0.605,1.7,False,0
-2026-05-10,pg_005,Remote Work Setup Guide,guide,360,0.336,2.4,False,0
-2026-05-10,pg_006,SEO Basics 2026,howto,353,0.615,2.3,True,43.6
-2026-05-10,pg_007,Old Product Roundup,review,54,0.488,4.5,True,15.45
-2026-05-10,pg_008,Fitness Tracker Comparison,review,594,0.656,3.0,False,0
-2026-05-11,pg_001,Best Laptops 2026,review,743,0.419,1.2,False,0
-2026-05-11,pg_002,How to Start a Blog,howto,312,0.38,2.6,False,0
-2026-05-11,pg_003,Top 10 VPN Services,review,995,0.483,2.3,True,243.51
-2026-05-11,pg_004,Budget Meal Planning,guide,397,0.552,1.7,False,0
-2026-05-11,pg_005,Remote Work Setup Guide,guide,281,0.409,4.0,True,67.75
-2026-05-11,pg_006,SEO Basics 2026,howto,397,0.605,1.4,False,0
-2026-05-11,pg_007,Old Product Roundup,review,48,0.461,4.9,True,2.85
-2026-05-11,pg_008,Fitness Tracker Comparison,review,655,0.449,1.1,True,169.19
-2026-05-12,pg_001,Best Laptops 2026,review,651,0.571,3.5,True,145.42
-2026-05-12,pg_002,How to Start a Blog,howto,362,0.352,2.5,False,0
-2026-05-12,pg_003,Top 10 VPN Services,review,640,0.63,2.2,True,148.45
-2026-05-12,pg_004,Budget Meal Planning,guide,423,0.435,4.6,False,0
-2026-05-12,pg_005,Remote Work Setup Guide,guide,362,0.661,2.4,True,103.9
-2026-05-12,pg_006,SEO Basics 2026,howto,500,0.461,1.9,False,0
-2026-05-12,pg_007,Old Product Roundup,review,35,0.594,3.4,True,4.96
-2026-05-12,pg_008,Fitness Tracker Comparison,review,872,0.315,4.5,True,160.17
-2026-05-13,pg_001,Best Laptops 2026,review,583,0.698,3.6,True,32.03
-2026-05-13,pg_002,How to Start a Blog,howto,445,0.467,2.5,False,0
-2026-05-13,pg_003,Top 10 VPN Services,review,787,0.361,3.8,True,98.59
-2026-05-13,pg_004,Budget Meal Planning,guide,438,0.565,2.1,False,0
-2026-05-13,pg_005,Remote Work Setup Guide,guide,312,0.632,1.4,False,0
-2026-05-13,pg_006,SEO Basics 2026,howto,308,0.346,1.4,True,30.78
-2026-05-13,pg_007,Old Product Roundup,review,38,0.509,1.8,True,4.71
-2026-05-13,pg_008,Fitness Tracker Comparison,review,578,0.499,1.8,False,0
-2026-05-14,pg_001,Best Laptops 2026,review,718,0.301,3.7,False,0
-2026-05-14,pg_002,How to Start a Blog,howto,480,0.568,1.6,True,85.4
-2026-05-14,pg_003,Top 10 VPN Services,review,907,0.341,2.0,True,269.53
-2026-05-14,pg_004,Budget Meal Planning,guide,351,0.486,1.4,True,21.01
-2026-05-14,pg_005,Remote Work Setup Guide,guide,349,0.621,2.3,False,0
-2026-05-14,pg_006,SEO Basics 2026,howto,302,0.603,1.2,False,0
-2026-05-14,pg_007,Old Product Roundup,review,49,0.368,2.4,True,10.07
-2026-05-14,pg_008,Fitness Tracker Comparison,review,981,0.337,4.3,True,147.34
-2026-05-15,pg_001,Best Laptops 2026,review,1021,0.409,2.5,False,0
-2026-05-15,pg_002,How to Start a Blog,howto,471,0.56,4.2,True,105.52
-2026-05-15,pg_003,Top 10 VPN Services,review,588,0.677,1.6,True,116.24
-2026-05-15,pg_004,Budget Meal Planning,guide,472,0.571,1.7,False,0
-2026-05-15,pg_005,Remote Work Setup Guide,guide,366,0.312,3.7,False,0
-2026-05-15,pg_006,SEO Basics 2026,howto,513,0.352,4.7,True,78.4
-2026-05-15,pg_007,Old Product Roundup,review,32,0.405,2.3,True,7.02
-2026-05-15,pg_008,Fitness Tracker Comparison,review,928,0.531,3.3,False,0
-2026-05-16,pg_001,Best Laptops 2026,review,881,0.435,3.1,True,65.03
-2026-05-16,pg_002,How to Start a Blog,howto,438,0.399,2.4,False,0
-2026-05-16,pg_003,Top 10 VPN Services,review,744,0.636,3.2,False,0
-2026-05-16,pg_004,Budget Meal Planning,guide,293,0.557,1.6,False,0
-2026-05-16,pg_005,Remote Work Setup Guide,guide,484,0.648,1.3,False,0
-2026-05-16,pg_006,SEO Basics 2026,howto,337,0.688,1.2,True,71.05
-2026-05-16,pg_007,Old Product Roundup,review,42,0.394,2.8,False,0
-2026-05-16,pg_008,Fitness Tracker Comparison,review,775,0.643,2.8,True,135.12
-2026-05-17,pg_001,Best Laptops 2026,review,873,0.341,2.6,True,43.69
-2026-05-17,pg_002,How to Start a Blog,howto,301,0.542,3.5,False,0
-2026-05-17,pg_003,Top 10 VPN Services,review,804,0.383,3.7,False,0
-2026-05-17,pg_004,Budget Meal Planning,guide,367,0.322,1.9,False,0
-2026-05-17,pg_005,Remote Work Setup Guide,guide,414,0.548,2.9,False,0
-2026-05-17,pg_006,SEO Basics 2026,howto,451,0.346,4.0,True,61.04
-2026-05-17,pg_007,Old Product Roundup,review,53,0.686,2.2,True,11.95
-2026-05-17,pg_008,Fitness Tracker Comparison,review,581,0.366,1.6,True,133.86
-2026-05-18,pg_001,Best Laptops 2026,review,611,0.544,1.8,False,0
-2026-05-18,pg_002,How to Start a Blog,howto,374,0.483,4.1,False,0
-2026-05-18,pg_003,Top 10 VPN Services,review,611,0.466,4.7,False,0
-2026-05-18,pg_004,Budget Meal Planning,guide,421,0.609,2.8,False,0
-2026-05-18,pg_005,Remote Work Setup Guide,guide,509,0.354,3.0,False,0
-2026-05-18,pg_006,SEO Basics 2026,howto,291,0.674,4.4,False,0
-2026-05-18,pg_007,Old Product Roundup,review,45,0.668,1.7,True,10.47
-2026-05-18,pg_008,Fitness Tracker Comparison,review,621,0.455,3.4,False,0
-2026-05-19,pg_001,Best Laptops 2026,review,801,0.454,4.9,False,0
-2026-05-19,pg_002,How to Start a Blog,howto,462,0.409,4.9,False,0
-2026-05-19,pg_003,Top 10 VPN Services,review,777,0.353,2.7,True,184.23
-2026-05-19,pg_004,Budget Meal Planning,guide,351,0.581,4.4,False,0
-2026-05-19,pg_005,Remote Work Setup Guide,guide,504,0.553,1.8,False,0
-2026-05-19,pg_006,SEO Basics 2026,howto,349,0.438,3.7,False,0
-2026-05-19,pg_007,Old Product Roundup,review,49,0.683,3.0,True,6.4
-2026-05-19,pg_008,Fitness Tracker Comparison,review,615,0.441,2.9,True,133.33
-2026-05-20,pg_001,Best Laptops 2026,review,760,0.599,4.4,True,198.99
-2026-05-20,pg_002,How to Start a Blog,howto,473,0.509,1.1,True,102.91
-2026-05-20,pg_003,Top 10 VPN Services,review,655,0.6,1.6,True,73.78
-2026-05-20,pg_004,Budget Meal Planning,guide,481,0.576,2.2,False,0
-2026-05-20,pg_005,Remote Work Setup Guide,guide,287,0.626,1.4,False,0
-2026-05-20,pg_006,SEO Basics 2026,howto,457,0.646,4.0,False,0
-2026-05-20,pg_007,Old Product Roundup,review,37,0.614,4.2,True,8.0
-2026-05-20,pg_008,Fitness Tracker Comparison,review,1004,0.455,4.8,False,0
-2026-05-21,pg_001,Best Laptops 2026,review,710,0.521,1.1,True,145.65
-2026-05-21,pg_002,How to Start a Blog,howto,467,0.648,4.3,False,0
-2026-05-21,pg_003,Top 10 VPN Services,review,898,0.559,4.0,True,180.36
-2026-05-21,pg_004,Budget Meal Planning,guide,466,0.686,2.2,True,102.83
-2026-05-21,pg_005,Remote Work Setup Guide,guide,324,0.37,3.1,False,0
-2026-05-21,pg_006,SEO Basics 2026,howto,382,0.523,1.5,False,0
-2026-05-21,pg_007,Old Product Roundup,review,38,0.432,3.8,True,3.36
-2026-05-21,pg_008,Fitness Tracker Comparison,review,714,0.32,4.7,True,153.85
-2026-05-22,pg_001,Best Laptops 2026,review,795,0.529,2.4,True,102.92
-2026-05-22,pg_002,How to Start a Blog,howto,332,0.374,1.3,False,0
-2026-05-22,pg_003,Top 10 VPN Services,review,759,0.515,1.4,True,78.43
-2026-05-22,pg_004,Budget Meal Planning,guide,359,0.444,1.9,False,0
-2026-05-22,pg_005,Remote Work Setup Guide,guide,407,0.699,4.3,False,0
-2026-05-22,pg_006,SEO Basics 2026,howto,282,0.568,2.8,False,0
-2026-05-22,pg_007,Old Product Roundup,review,48,0.548,4.8,True,6.25
-2026-05-22,pg_008,Fitness Tracker Comparison,review,999,0.678,2.5,True,120.59
-2026-05-23,pg_001,Best Laptops 2026,review,997,0.629,2.5,False,0
-2026-05-23,pg_002,How to Start a Blog,howto,386,0.318,4.6,True,68.89
-2026-05-23,pg_003,Top 10 VPN Services,review,1015,0.367,4.8,True,52.61
-2026-05-23,pg_004,Budget Meal Planning,guide,295,0.568,4.1,False,0
-2026-05-23,pg_005,Remote Work Setup Guide,guide,381,0.342,3.2,False,0
-2026-05-23,pg_006,SEO Basics 2026,howto,514,0.61,3.6,False,0
-2026-05-23,pg_007,Old Product Roundup,review,51,0.362,2.8,True,3.67
-2026-05-23,pg_008,Fitness Tracker Comparison,review,586,0.618,3.2,True,62.65
-2026-05-24,pg_001,Best Laptops 2026,review,684,0.455,3.5,True,37.09
-2026-05-24,pg_002,How to Start a Blog,howto,441,0.514,3.6,False,0
-2026-05-24,pg_003,Top 10 VPN Services,review,922,0.534,3.8,True,260.02
-2026-05-24,pg_004,Budget Meal Planning,guide,305,0.615,2.2,True,73.6
-2026-05-24,pg_005,Remote Work Setup Guide,guide,385,0.458,3.6,False,0
-2026-05-24,pg_006,SEO Basics 2026,howto,408,0.355,2.6,False,0
-2026-05-24,pg_007,Old Product Roundup,review,46,0.684,1.6,True,12.81
-2026-05-24,pg_008,Fitness Tracker Comparison,review,941,0.592,2.5,False,0
-2026-05-25,pg_001,Best Laptops 2026,review,825,0.522,1.5,True,164.31
-2026-05-25,pg_002,How to Start a Blog,howto,408,0.679,2.2,False,0
-2026-05-25,pg_003,Top 10 VPN Services,review,993,0.438,2.7,True,176.89
-2026-05-25,pg_004,Budget Meal Planning,guide,318,0.388,4.3,True,30.32
-2026-05-25,pg_005,Remote Work Setup Guide,guide,471,0.641,4.4,False,0
-2026-05-25,pg_006,SEO Basics 2026,howto,518,0.485,3.2,True,34.62
-2026-05-25,pg_007,Old Product Roundup,review,34,0.59,2.9,True,2.79
-2026-05-25,pg_008,Fitness Tracker Comparison,review,874,0.34,3.5,False,0
-2026-05-26,pg_001,Best Laptops 2026,review,712,0.48,3.5,True,139.58
-2026-05-26,pg_002,How to Start a Blog,howto,415,0.446,2.3,False,0
-2026-05-26,pg_003,Top 10 VPN Services,review,562,0.398,1.9,True,89.38
-2026-05-26,pg_004,Budget Meal Planning,guide,481,0.354,3.9,False,0
-2026-05-26,pg_005,Remote Work Setup Guide,guide,391,0.443,2.2,False,0
-2026-05-26,pg_006,SEO Basics 2026,howto,322,0.543,4.4,False,0
-2026-05-26,pg_007,Old Product Roundup,review,35,0.515,2.1,False,0
-2026-05-26,pg_008,Fitness Tracker Comparison,review,596,0.33,1.1,True,34.45
-2026-05-27,pg_001,Best Laptops 2026,review,839,0.462,3.4,False,0
-2026-05-27,pg_002,How to Start a Blog,howto,412,0.517,5.0,False,0
-2026-05-27,pg_003,Top 10 VPN Services,review,932,0.446,1.9,True,217.44
-2026-05-27,pg_004,Budget Meal Planning,guide,349,0.486,3.0,False,0
-2026-05-27,pg_005,Remote Work Setup Guide,guide,400,0.565,4.4,False,0
-2026-05-27,pg_006,SEO Basics 2026,howto,427,0.366,3.1,False,0
-2026-05-27,pg_007,Old Product Roundup,review,36,0.679,3.6,False,0
-2026-05-27,pg_008,Fitness Tracker Comparison,review,913,0.493,2.4,True,156.95
-2026-05-28,pg_001,Best Laptops 2026,review,590,0.448,1.2,True,163.39
-2026-05-28,pg_002,How to Start a Blog,howto,366,0.488,2.8,True,108.02
-2026-05-28,pg_003,Top 10 VPN Services,review,715,0.581,3.1,False,0
-2026-05-28,pg_004,Budget Meal Planning,guide,480,0.405,3.2,True,102.44
-2026-05-28,pg_005,Remote Work Setup Guide,guide,367,0.561,4.3,False,0
-2026-05-28,pg_006,SEO Basics 2026,howto,370,0.663,3.1,False,0
-2026-05-28,pg_007,Old Product Roundup,review,54,0.495,2.9,True,9.47
-2026-05-28,pg_008,Fitness Tracker Comparison,review,626,0.366,1.3,True,64.4
-2026-05-29,pg_001,Best Laptops 2026,review,649,0.445,3.9,True,69.82
-2026-05-29,pg_002,How to Start a Blog,howto,474,0.588,2.9,False,0
-2026-05-29,pg_003,Top 10 VPN Services,review,661,0.364,4.3,True,40.18
-2026-05-29,pg_004,Budget Meal Planning,guide,417,0.364,3.5,True,80.51
-2026-05-29,pg_005,Remote Work Setup Guide,guide,293,0.403,1.7,False,0
-2026-05-29,pg_006,SEO Basics 2026,howto,423,0.525,1.1,False,0
-2026-05-29,pg_007,Old Product Roundup,review,49,0.413,1.3,True,14.61
-2026-05-29,pg_008,Fitness Tracker Comparison,review,976,0.368,4.3,True,242.69
+2026-04-04,pg_001,Best Laptops 2026,review,603,0.685,4.3,True,173.48
+2026-04-04,pg_002,How to Start a Blog,howto,519,0.569,2.1,True,124.08
+2026-04-04,pg_003,Top 10 VPN Services,review,785,0.561,4.7,True,154.12
+2026-04-04,pg_004,Budget Meal Planning,guide,432,0.497,1.4,False,0
+2026-04-04,pg_005,Remote Work Setup Guide,guide,359,0.568,4.4,False,0
+2026-04-04,pg_006,SEO Basics 2026,howto,446,0.415,4.8,False,0
+2026-04-04,pg_007,Old Product Roundup,review,46,0.482,2.3,True,13.46
+2026-04-04,pg_008,Fitness Tracker Comparison,review,754,0.506,5.0,True,139.98
+2026-04-05,pg_001,Best Laptops 2026,review,758,0.375,2.4,True,156.41
+2026-04-05,pg_002,How to Start a Blog,howto,462,0.381,3.2,False,0
+2026-04-05,pg_003,Top 10 VPN Services,review,770,0.579,1.5,False,0
+2026-04-05,pg_004,Budget Meal Planning,guide,426,0.396,1.6,False,0
+2026-04-05,pg_005,Remote Work Setup Guide,guide,412,0.337,5.0,False,0
+2026-04-05,pg_006,SEO Basics 2026,howto,390,0.347,4.3,False,0
+2026-04-05,pg_007,Old Product Roundup,review,50,0.504,2.1,False,0
+2026-04-05,pg_008,Fitness Tracker Comparison,review,1030,0.397,3.2,True,288.88
+2026-04-06,pg_001,Best Laptops 2026,review,803,0.652,4.5,True,198.74
+2026-04-06,pg_002,How to Start a Blog,howto,379,0.674,3.0,False,0
+2026-04-06,pg_003,Top 10 VPN Services,review,695,0.419,3.3,False,0
+2026-04-06,pg_004,Budget Meal Planning,guide,397,0.359,3.2,False,0
+2026-04-06,pg_005,Remote Work Setup Guide,guide,412,0.517,2.8,False,0
+2026-04-06,pg_006,SEO Basics 2026,howto,325,0.579,3.3,True,79.26
+2026-04-06,pg_007,Old Product Roundup,review,32,0.598,3.8,False,0
+2026-04-06,pg_008,Fitness Tracker Comparison,review,745,0.565,4.3,False,0
+2026-04-07,pg_001,Best Laptops 2026,review,797,0.315,3.0,True,213.14
+2026-04-07,pg_002,How to Start a Blog,howto,489,0.476,3.1,False,0
+2026-04-07,pg_003,Top 10 VPN Services,review,906,0.464,3.6,True,151.64
+2026-04-07,pg_004,Budget Meal Planning,guide,512,0.435,3.8,False,0
+2026-04-07,pg_005,Remote Work Setup Guide,guide,484,0.641,4.4,False,0
+2026-04-07,pg_006,SEO Basics 2026,howto,355,0.587,4.0,False,0
+2026-04-07,pg_007,Old Product Roundup,review,32,0.327,3.5,False,0
+2026-04-07,pg_008,Fitness Tracker Comparison,review,1038,0.599,2.7,True,216.36
+2026-04-08,pg_001,Best Laptops 2026,review,978,0.477,3.8,False,0
+2026-04-08,pg_002,How to Start a Blog,howto,291,0.618,2.2,False,0
+2026-04-08,pg_003,Top 10 VPN Services,review,629,0.512,3.3,True,58.18
+2026-04-08,pg_004,Budget Meal Planning,guide,298,0.648,3.5,True,82.91
+2026-04-08,pg_005,Remote Work Setup Guide,guide,314,0.484,2.0,True,16.44
+2026-04-08,pg_006,SEO Basics 2026,howto,473,0.66,3.7,True,75.88
+2026-04-08,pg_007,Old Product Roundup,review,40,0.535,3.6,True,4.5
+2026-04-08,pg_008,Fitness Tracker Comparison,review,965,0.38,2.5,True,105.48
+2026-04-09,pg_001,Best Laptops 2026,review,834,0.53,5.0,True,245.6
+2026-04-09,pg_002,How to Start a Blog,howto,437,0.41,3.3,False,0
+2026-04-09,pg_003,Top 10 VPN Services,review,917,0.32,3.4,True,253.13
+2026-04-09,pg_004,Budget Meal Planning,guide,348,0.62,3.4,False,0
+2026-04-09,pg_005,Remote Work Setup Guide,guide,432,0.548,3.7,False,0
+2026-04-09,pg_006,SEO Basics 2026,howto,438,0.635,3.5,False,0
+2026-04-09,pg_007,Old Product Roundup,review,48,0.424,2.8,True,11.19
+2026-04-09,pg_008,Fitness Tracker Comparison,review,603,0.418,4.0,True,50.07
+2026-04-10,pg_001,Best Laptops 2026,review,818,0.689,3.1,False,0
+2026-04-10,pg_002,How to Start a Blog,howto,479,0.403,4.3,False,0
+2026-04-10,pg_003,Top 10 VPN Services,review,947,0.599,2.4,True,275.31
+2026-04-10,pg_004,Budget Meal Planning,guide,313,0.687,4.4,False,0
+2026-04-10,pg_005,Remote Work Setup Guide,guide,515,0.687,4.2,False,0
+2026-04-10,pg_006,SEO Basics 2026,howto,469,0.306,3.1,False,0
+2026-04-10,pg_007,Old Product Roundup,review,49,0.569,3.3,False,0
+2026-04-10,pg_008,Fitness Tracker Comparison,review,1011,0.343,1.9,True,274.04
+2026-04-11,pg_001,Best Laptops 2026,review,829,0.666,1.9,True,212.19
+2026-04-11,pg_002,How to Start a Blog,howto,498,0.421,2.6,True,142.71
+2026-04-11,pg_003,Top 10 VPN Services,review,706,0.497,1.4,False,0
+2026-04-11,pg_004,Budget Meal Planning,guide,312,0.481,3.7,False,0
+2026-04-11,pg_005,Remote Work Setup Guide,guide,507,0.468,4.0,True,77.94
+2026-04-11,pg_006,SEO Basics 2026,howto,303,0.496,2.6,False,0
+2026-04-11,pg_007,Old Product Roundup,review,32,0.448,2.8,False,0
+2026-04-11,pg_008,Fitness Tracker Comparison,review,970,0.34,3.7,True,285.63
+2026-04-12,pg_001,Best Laptops 2026,review,732,0.459,1.8,True,191.79
+2026-04-12,pg_002,How to Start a Blog,howto,389,0.565,3.6,False,0
+2026-04-12,pg_003,Top 10 VPN Services,review,570,0.615,2.0,True,108.95
+2026-04-12,pg_004,Budget Meal Planning,guide,296,0.606,1.8,True,79.16
+2026-04-12,pg_005,Remote Work Setup Guide,guide,358,0.359,4.6,True,94.73
+2026-04-12,pg_006,SEO Basics 2026,howto,314,0.352,2.0,True,67.59
+2026-04-12,pg_007,Old Product Roundup,review,32,0.306,4.2,True,4.19
+2026-04-12,pg_008,Fitness Tracker Comparison,review,643,0.321,4.0,True,152.02
+2026-04-13,pg_001,Best Laptops 2026,review,788,0.611,3.1,True,138.66
+2026-04-13,pg_002,How to Start a Blog,howto,506,0.317,4.1,False,0
+2026-04-13,pg_003,Top 10 VPN Services,review,810,0.483,4.9,True,137.49
+2026-04-13,pg_004,Budget Meal Planning,guide,376,0.574,3.0,False,0
+2026-04-13,pg_005,Remote Work Setup Guide,guide,297,0.332,3.4,True,35.27
+2026-04-13,pg_006,SEO Basics 2026,howto,431,0.519,2.3,False,0
+2026-04-13,pg_007,Old Product Roundup,review,45,0.481,3.4,True,10.15
+2026-04-13,pg_008,Fitness Tracker Comparison,review,969,0.56,4.1,True,100.54
+2026-04-14,pg_001,Best Laptops 2026,review,776,0.391,2.4,True,119.5
+2026-04-14,pg_002,How to Start a Blog,howto,302,0.471,3.7,False,0
+2026-04-14,pg_003,Top 10 VPN Services,review,633,0.669,1.3,False,0
+2026-04-14,pg_004,Budget Meal Planning,guide,302,0.339,4.0,False,0
+2026-04-14,pg_005,Remote Work Setup Guide,guide,413,0.535,3.2,False,0
+2026-04-14,pg_006,SEO Basics 2026,howto,309,0.441,3.7,False,0
+2026-04-14,pg_007,Old Product Roundup,review,54,0.588,4.9,True,7.45
+2026-04-14,pg_008,Fitness Tracker Comparison,review,837,0.385,3.6,True,64.49
+2026-04-15,pg_001,Best Laptops 2026,review,965,0.447,4.1,True,242.99
+2026-04-15,pg_002,How to Start a Blog,howto,482,0.69,4.3,False,0
+2026-04-15,pg_003,Top 10 VPN Services,review,868,0.311,4.7,False,0
+2026-04-15,pg_004,Budget Meal Planning,guide,344,0.372,3.8,False,0
+2026-04-15,pg_005,Remote Work Setup Guide,guide,361,0.302,4.5,False,0
+2026-04-15,pg_006,SEO Basics 2026,howto,376,0.357,3.5,True,88.93
+2026-04-15,pg_007,Old Product Roundup,review,37,0.468,2.4,True,8.52
+2026-04-15,pg_008,Fitness Tracker Comparison,review,932,0.527,1.3,True,83.28
+2026-04-16,pg_001,Best Laptops 2026,review,856,0.57,2.1,True,146.73
+2026-04-16,pg_002,How to Start a Blog,howto,386,0.409,4.0,True,60.79
+2026-04-16,pg_003,Top 10 VPN Services,review,695,0.571,2.9,True,42.64
+2026-04-16,pg_004,Budget Meal Planning,guide,374,0.54,1.0,False,0
+2026-04-16,pg_005,Remote Work Setup Guide,guide,330,0.355,2.0,False,0
+2026-04-16,pg_006,SEO Basics 2026,howto,281,0.599,1.7,False,0
+2026-04-16,pg_007,Old Product Roundup,review,50,0.5,4.3,False,0
+2026-04-16,pg_008,Fitness Tracker Comparison,review,594,0.645,1.2,True,166.49
+2026-04-17,pg_001,Best Laptops 2026,review,973,0.53,3.3,True,150.25
+2026-04-17,pg_002,How to Start a Blog,howto,307,0.308,2.3,False,0
+2026-04-17,pg_003,Top 10 VPN Services,review,856,0.633,4.7,True,223.52
+2026-04-17,pg_004,Budget Meal Planning,guide,338,0.536,3.1,False,0
+2026-04-17,pg_005,Remote Work Setup Guide,guide,354,0.436,2.3,True,62.88
+2026-04-17,pg_006,SEO Basics 2026,howto,307,0.504,4.6,False,0
+2026-04-17,pg_007,Old Product Roundup,review,51,0.628,4.3,True,4.42
+2026-04-17,pg_008,Fitness Tracker Comparison,review,654,0.541,4.0,True,61.66
+2026-04-18,pg_001,Best Laptops 2026,review,930,0.498,4.0,True,150.87
+2026-04-18,pg_002,How to Start a Blog,howto,501,0.526,3.5,False,0
+2026-04-18,pg_003,Top 10 VPN Services,review,974,0.551,1.6,True,156.38
+2026-04-18,pg_004,Budget Meal Planning,guide,352,0.41,1.2,False,0
+2026-04-18,pg_005,Remote Work Setup Guide,guide,354,0.481,1.2,False,0
+2026-04-18,pg_006,SEO Basics 2026,howto,298,0.646,4.4,False,0
+2026-04-18,pg_007,Old Product Roundup,review,45,0.485,3.2,True,12.33
+2026-04-18,pg_008,Fitness Tracker Comparison,review,775,0.624,3.6,True,130.9
+2026-04-19,pg_001,Best Laptops 2026,review,632,0.325,1.4,False,0
+2026-04-19,pg_002,How to Start a Blog,howto,362,0.586,3.0,True,40.52
+2026-04-19,pg_003,Top 10 VPN Services,review,770,0.476,3.1,True,110.27
+2026-04-19,pg_004,Budget Meal Planning,guide,347,0.464,2.4,False,0
+2026-04-19,pg_005,Remote Work Setup Guide,guide,469,0.559,1.3,True,102.99
+2026-04-19,pg_006,SEO Basics 2026,howto,348,0.589,3.6,False,0
+2026-04-19,pg_007,Old Product Roundup,review,55,0.433,3.3,True,7.56
+2026-04-19,pg_008,Fitness Tracker Comparison,review,1024,0.579,2.6,True,291.33
+2026-04-20,pg_001,Best Laptops 2026,review,708,0.451,4.2,False,0
+2026-04-20,pg_002,How to Start a Blog,howto,440,0.632,4.0,False,0
+2026-04-20,pg_003,Top 10 VPN Services,review,812,0.558,2.7,True,114.21
+2026-04-20,pg_004,Budget Meal Planning,guide,323,0.386,4.8,False,0
+2026-04-20,pg_005,Remote Work Setup Guide,guide,334,0.355,1.3,False,0
+2026-04-20,pg_006,SEO Basics 2026,howto,304,0.608,4.3,False,0
+2026-04-20,pg_007,Old Product Roundup,review,32,0.435,4.1,True,4.61
+2026-04-20,pg_008,Fitness Tracker Comparison,review,637,0.633,4.1,False,0
+2026-04-21,pg_001,Best Laptops 2026,review,639,0.475,2.6,True,69.9
+2026-04-21,pg_002,How to Start a Blog,howto,386,0.414,4.0,False,0
+2026-04-21,pg_003,Top 10 VPN Services,review,816,0.424,4.2,True,211.16
+2026-04-21,pg_004,Budget Meal Planning,guide,368,0.679,4.9,False,0
+2026-04-21,pg_005,Remote Work Setup Guide,guide,347,0.453,3.1,False,0
+2026-04-21,pg_006,SEO Basics 2026,howto,476,0.621,1.6,True,100.1
+2026-04-21,pg_007,Old Product Roundup,review,55,0.522,1.4,False,0
+2026-04-21,pg_008,Fitness Tracker Comparison,review,968,0.414,4.1,True,267.48
+2026-04-22,pg_001,Best Laptops 2026,review,630,0.475,4.8,True,102.55
+2026-04-22,pg_002,How to Start a Blog,howto,363,0.311,1.2,False,0
+2026-04-22,pg_003,Top 10 VPN Services,review,673,0.698,2.5,True,190.26
+2026-04-22,pg_004,Budget Meal Planning,guide,481,0.56,4.2,True,58.55
+2026-04-22,pg_005,Remote Work Setup Guide,guide,479,0.578,1.6,False,0
+2026-04-22,pg_006,SEO Basics 2026,howto,387,0.302,1.3,True,100.13
+2026-04-22,pg_007,Old Product Roundup,review,46,0.591,3.1,True,5.61
+2026-04-22,pg_008,Fitness Tracker Comparison,review,704,0.319,2.7,True,115.65
+2026-04-23,pg_001,Best Laptops 2026,review,613,0.662,3.4,True,109.63
+2026-04-23,pg_002,How to Start a Blog,howto,338,0.357,2.7,False,0
+2026-04-23,pg_003,Top 10 VPN Services,review,675,0.467,3.7,True,198.22
+2026-04-23,pg_004,Budget Meal Planning,guide,296,0.51,3.0,False,0
+2026-04-23,pg_005,Remote Work Setup Guide,guide,412,0.456,2.9,False,0
+2026-04-23,pg_006,SEO Basics 2026,howto,515,0.401,1.1,False,0
+2026-04-23,pg_007,Old Product Roundup,review,40,0.593,3.5,True,9.35
+2026-04-23,pg_008,Fitness Tracker Comparison,review,719,0.318,3.2,False,0
+2026-04-24,pg_001,Best Laptops 2026,review,644,0.612,2.9,True,133.91
+2026-04-24,pg_002,How to Start a Blog,howto,474,0.325,4.1,False,0
+2026-04-24,pg_003,Top 10 VPN Services,review,700,0.318,1.8,True,198.34
+2026-04-24,pg_004,Budget Meal Planning,guide,403,0.696,3.2,True,96.04
+2026-04-24,pg_005,Remote Work Setup Guide,guide,325,0.443,4.1,False,0
+2026-04-24,pg_006,SEO Basics 2026,howto,359,0.35,2.5,False,0
+2026-04-24,pg_007,Old Product Roundup,review,51,0.658,2.5,False,0
+2026-04-24,pg_008,Fitness Tracker Comparison,review,798,0.499,4.7,True,199.73
+2026-04-25,pg_001,Best Laptops 2026,review,908,0.332,3.4,False,0
+2026-04-25,pg_002,How to Start a Blog,howto,410,0.428,1.3,False,0
+2026-04-25,pg_003,Top 10 VPN Services,review,707,0.541,2.7,True,97.49
+2026-04-25,pg_004,Budget Meal Planning,guide,290,0.648,2.4,False,0
+2026-04-25,pg_005,Remote Work Setup Guide,guide,345,0.692,4.8,True,72.24
+2026-04-25,pg_006,SEO Basics 2026,howto,367,0.62,3.7,False,0
+2026-04-25,pg_007,Old Product Roundup,review,35,0.543,4.1,True,2.34
+2026-04-25,pg_008,Fitness Tracker Comparison,review,933,0.447,2.5,True,187.79
+2026-04-26,pg_001,Best Laptops 2026,review,885,0.68,2.5,True,171.23
+2026-04-26,pg_002,How to Start a Blog,howto,407,0.459,3.6,True,31.89
+2026-04-26,pg_003,Top 10 VPN Services,review,913,0.5,2.5,True,105.4
+2026-04-26,pg_004,Budget Meal Planning,guide,342,0.479,5.0,True,95.46
+2026-04-26,pg_005,Remote Work Setup Guide,guide,397,0.349,4.4,False,0
+2026-04-26,pg_006,SEO Basics 2026,howto,495,0.478,1.4,False,0
+2026-04-26,pg_007,Old Product Roundup,review,54,0.428,2.4,True,10.02
+2026-04-26,pg_008,Fitness Tracker Comparison,review,987,0.641,3.8,False,0
+2026-04-27,pg_001,Best Laptops 2026,review,866,0.617,3.0,True,86.81
+2026-04-27,pg_002,How to Start a Blog,howto,313,0.616,1.1,False,0
+2026-04-27,pg_003,Top 10 VPN Services,review,737,0.621,3.2,True,52.74
+2026-04-27,pg_004,Budget Meal Planning,guide,354,0.7,3.9,False,0
+2026-04-27,pg_005,Remote Work Setup Guide,guide,464,0.629,1.3,False,0
+2026-04-27,pg_006,SEO Basics 2026,howto,434,0.48,3.7,False,0
+2026-04-27,pg_007,Old Product Roundup,review,55,0.612,3.6,True,16.04
+2026-04-27,pg_008,Fitness Tracker Comparison,review,767,0.664,1.2,True,67.69
+2026-04-28,pg_001,Best Laptops 2026,review,639,0.429,3.8,True,182.26
+2026-04-28,pg_002,How to Start a Blog,howto,494,0.638,2.0,False,0
+2026-04-28,pg_003,Top 10 VPN Services,review,824,0.35,2.2,True,144.73
+2026-04-28,pg_004,Budget Meal Planning,guide,320,0.677,1.6,False,0
+2026-04-28,pg_005,Remote Work Setup Guide,guide,452,0.542,4.4,False,0
+2026-04-28,pg_006,SEO Basics 2026,howto,478,0.311,1.2,False,0
+2026-04-28,pg_007,Old Product Roundup,review,47,0.56,4.1,True,9.86
+2026-04-28,pg_008,Fitness Tracker Comparison,review,799,0.551,2.2,False,0
+2026-04-29,pg_001,Best Laptops 2026,review,791,0.622,3.7,True,53.98
+2026-04-29,pg_002,How to Start a Blog,howto,294,0.476,2.9,True,59.29
+2026-04-29,pg_003,Top 10 VPN Services,review,710,0.587,3.9,False,0
+2026-04-29,pg_004,Budget Meal Planning,guide,514,0.352,2.5,False,0
+2026-04-29,pg_005,Remote Work Setup Guide,guide,356,0.487,2.1,True,26.42
+2026-04-29,pg_006,SEO Basics 2026,howto,349,0.454,3.5,True,92.95
+2026-04-29,pg_007,Old Product Roundup,review,35,0.431,3.3,True,8.43
+2026-04-29,pg_008,Fitness Tracker Comparison,review,799,0.506,3.0,True,44.58
+2026-04-30,pg_001,Best Laptops 2026,review,1013,0.502,4.9,True,140.02
+2026-04-30,pg_002,How to Start a Blog,howto,292,0.498,4.5,False,0
+2026-04-30,pg_003,Top 10 VPN Services,review,785,0.515,4.4,True,212.43
+2026-04-30,pg_004,Budget Meal Planning,guide,454,0.606,2.5,False,0
+2026-04-30,pg_005,Remote Work Setup Guide,guide,416,0.378,3.2,True,73.24
+2026-04-30,pg_006,SEO Basics 2026,howto,463,0.412,5.0,False,0
+2026-04-30,pg_007,Old Product Roundup,review,34,0.69,2.6,True,4.58
+2026-04-30,pg_008,Fitness Tracker Comparison,review,1010,0.602,1.8,True,176.77
+2026-05-01,pg_001,Best Laptops 2026,review,581,0.355,2.3,True,95.43
+2026-05-01,pg_002,How to Start a Blog,howto,425,0.506,2.3,False,0
+2026-05-01,pg_003,Top 10 VPN Services,review,638,0.696,4.0,True,85.55
+2026-05-01,pg_004,Budget Meal Planning,guide,478,0.513,3.8,True,121.38
+2026-05-01,pg_005,Remote Work Setup Guide,guide,368,0.57,4.9,False,0
+2026-05-01,pg_006,SEO Basics 2026,howto,471,0.59,3.8,True,79.43
+2026-05-01,pg_007,Old Product Roundup,review,57,0.613,4.1,True,13.13
+2026-05-01,pg_008,Fitness Tracker Comparison,review,840,0.368,3.5,True,218.65
+2026-05-02,pg_001,Best Laptops 2026,review,630,0.572,1.1,False,0
+2026-05-02,pg_002,How to Start a Blog,howto,306,0.308,2.3,True,68.12
+2026-05-02,pg_003,Top 10 VPN Services,review,756,0.61,4.7,False,0
+2026-05-02,pg_004,Budget Meal Planning,guide,456,0.325,1.6,True,59.86
+2026-05-02,pg_005,Remote Work Setup Guide,guide,438,0.51,2.3,True,121.78
+2026-05-02,pg_006,SEO Basics 2026,howto,362,0.442,4.1,False,0
+2026-05-02,pg_007,Old Product Roundup,review,48,0.577,3.4,True,5.36
+2026-05-02,pg_008,Fitness Tracker Comparison,review,827,0.39,4.9,True,101.1
+2026-05-03,pg_001,Best Laptops 2026,review,659,0.582,2.3,True,186.78
+2026-05-03,pg_002,How to Start a Blog,howto,470,0.409,1.5,False,0
+2026-05-03,pg_003,Top 10 VPN Services,review,742,0.692,4.3,False,0
+2026-05-03,pg_004,Budget Meal Planning,guide,473,0.416,2.2,False,0
+2026-05-03,pg_005,Remote Work Setup Guide,guide,363,0.477,2.0,False,0
+2026-05-03,pg_006,SEO Basics 2026,howto,328,0.515,4.7,False,0
+2026-05-03,pg_007,Old Product Roundup,review,35,0.546,3.3,True,7.61
+2026-05-03,pg_008,Fitness Tracker Comparison,review,814,0.555,1.2,True,186.68
+2026-05-04,pg_001,Best Laptops 2026,review,608,0.608,1.0,True,171.62
+2026-05-04,pg_002,How to Start a Blog,howto,377,0.674,4.5,False,0
+2026-05-04,pg_003,Top 10 VPN Services,review,655,0.686,2.3,True,181.42
+2026-05-04,pg_004,Budget Meal Planning,guide,301,0.53,3.1,False,0
+2026-05-04,pg_005,Remote Work Setup Guide,guide,504,0.665,1.7,False,0
+2026-05-04,pg_006,SEO Basics 2026,howto,322,0.668,5.0,False,0
+2026-05-04,pg_007,Old Product Roundup,review,44,0.675,4.8,False,0
+2026-05-04,pg_008,Fitness Tracker Comparison,review,980,0.304,3.3,True,289.83
+2026-05-05,pg_001,Best Laptops 2026,review,696,0.696,3.2,True,198.11
+2026-05-05,pg_002,How to Start a Blog,howto,484,0.487,1.8,True,43.86
+2026-05-05,pg_003,Top 10 VPN Services,review,780,0.403,1.7,True,193.2
+2026-05-05,pg_004,Budget Meal Planning,guide,416,0.603,1.7,False,0
+2026-05-05,pg_005,Remote Work Setup Guide,guide,495,0.631,3.1,True,107.57
+2026-05-05,pg_006,SEO Basics 2026,howto,324,0.356,2.3,True,37.32
+2026-05-05,pg_007,Old Product Roundup,review,37,0.602,4.8,True,8.54
+2026-05-05,pg_008,Fitness Tracker Comparison,review,565,0.561,3.8,True,44.95
+2026-05-06,pg_001,Best Laptops 2026,review,707,0.462,3.0,False,0
+2026-05-06,pg_002,How to Start a Blog,howto,448,0.424,1.5,False,0
+2026-05-06,pg_003,Top 10 VPN Services,review,701,0.546,1.9,True,61.9
+2026-05-06,pg_004,Budget Meal Planning,guide,459,0.542,2.7,False,0
+2026-05-06,pg_005,Remote Work Setup Guide,guide,392,0.515,3.7,True,43.85
+2026-05-06,pg_006,SEO Basics 2026,howto,461,0.649,1.3,False,0
+2026-05-06,pg_007,Old Product Roundup,review,50,0.331,3.3,True,9.35
+2026-05-06,pg_008,Fitness Tracker Comparison,review,802,0.529,1.6,True,144.43
+2026-05-07,pg_001,Best Laptops 2026,review,615,0.382,3.3,True,109.22
+2026-05-07,pg_002,How to Start a Blog,howto,474,0.481,3.1,False,0
+2026-05-07,pg_003,Top 10 VPN Services,review,587,0.485,4.2,True,87.46
+2026-05-07,pg_004,Budget Meal Planning,guide,475,0.598,3.3,True,64.66
+2026-05-07,pg_005,Remote Work Setup Guide,guide,295,0.698,4.7,True,83.62
+2026-05-07,pg_006,SEO Basics 2026,howto,287,0.464,4.1,False,0
+2026-05-07,pg_007,Old Product Roundup,review,57,0.558,2.7,False,0
+2026-05-07,pg_008,Fitness Tracker Comparison,review,743,0.648,4.6,True,163.97
+2026-05-08,pg_001,Best Laptops 2026,review,877,0.516,3.6,True,82.98
+2026-05-08,pg_002,How to Start a Blog,howto,408,0.512,3.9,True,20.75
+2026-05-08,pg_003,Top 10 VPN Services,review,570,0.419,3.7,True,104.3
+2026-05-08,pg_004,Budget Meal Planning,guide,477,0.399,2.4,True,135.64
+2026-05-08,pg_005,Remote Work Setup Guide,guide,454,0.345,4.2,False,0
+2026-05-08,pg_006,SEO Basics 2026,howto,463,0.654,1.1,True,34.83
+2026-05-08,pg_007,Old Product Roundup,review,32,0.539,3.8,True,7.52
+2026-05-08,pg_008,Fitness Tracker Comparison,review,753,0.394,1.9,False,0
+2026-05-09,pg_001,Best Laptops 2026,review,587,0.502,2.2,False,0
+2026-05-09,pg_002,How to Start a Blog,howto,455,0.428,3.4,False,0
+2026-05-09,pg_003,Top 10 VPN Services,review,713,0.421,1.6,True,75.05
+2026-05-09,pg_004,Budget Meal Planning,guide,352,0.324,4.8,False,0
+2026-05-09,pg_005,Remote Work Setup Guide,guide,498,0.55,2.7,False,0
+2026-05-09,pg_006,SEO Basics 2026,howto,513,0.677,3.7,False,0
+2026-05-09,pg_007,Old Product Roundup,review,40,0.467,1.6,True,9.54
+2026-05-09,pg_008,Fitness Tracker Comparison,review,787,0.64,2.2,True,197.89
+2026-05-10,pg_001,Best Laptops 2026,review,999,0.525,4.9,True,83.44
+2026-05-10,pg_002,How to Start a Blog,howto,338,0.381,3.6,False,0
+2026-05-10,pg_003,Top 10 VPN Services,review,966,0.337,3.9,True,113.13
+2026-05-10,pg_004,Budget Meal Planning,guide,441,0.541,4.5,True,106.03
+2026-05-10,pg_005,Remote Work Setup Guide,guide,453,0.524,2.9,False,0
+2026-05-10,pg_006,SEO Basics 2026,howto,359,0.683,1.1,False,0
+2026-05-10,pg_007,Old Product Roundup,review,57,0.347,5.0,True,6.31
+2026-05-10,pg_008,Fitness Tracker Comparison,review,850,0.382,4.7,True,207.3
+2026-05-11,pg_001,Best Laptops 2026,review,742,0.513,2.4,True,132.23
+2026-05-11,pg_002,How to Start a Blog,howto,399,0.339,4.9,False,0
+2026-05-11,pg_003,Top 10 VPN Services,review,963,0.666,2.5,True,183.58
+2026-05-11,pg_004,Budget Meal Planning,guide,333,0.358,2.0,False,0
+2026-05-11,pg_005,Remote Work Setup Guide,guide,418,0.467,1.6,False,0
+2026-05-11,pg_006,SEO Basics 2026,howto,371,0.633,3.0,False,0
+2026-05-11,pg_007,Old Product Roundup,review,49,0.403,4.3,False,0
+2026-05-11,pg_008,Fitness Tracker Comparison,review,868,0.496,1.7,True,80.13
+2026-05-12,pg_001,Best Laptops 2026,review,905,0.495,4.7,True,190.46
+2026-05-12,pg_002,How to Start a Blog,howto,294,0.314,4.4,False,0
+2026-05-12,pg_003,Top 10 VPN Services,review,880,0.606,2.6,False,0
+2026-05-12,pg_004,Budget Meal Planning,guide,335,0.583,1.0,False,0
+2026-05-12,pg_005,Remote Work Setup Guide,guide,369,0.547,3.7,False,0
+2026-05-12,pg_006,SEO Basics 2026,howto,395,0.495,1.0,False,0
+2026-05-12,pg_007,Old Product Roundup,review,31,0.512,2.1,False,0
+2026-05-12,pg_008,Fitness Tracker Comparison,review,568,0.625,3.7,False,0
+2026-05-13,pg_001,Best Laptops 2026,review,996,0.343,1.4,True,97.59
+2026-05-13,pg_002,How to Start a Blog,howto,406,0.626,2.1,False,0
+2026-05-13,pg_003,Top 10 VPN Services,review,739,0.462,3.3,False,0
+2026-05-13,pg_004,Budget Meal Planning,guide,334,0.574,4.4,False,0
+2026-05-13,pg_005,Remote Work Setup Guide,guide,485,0.604,1.4,False,0
+2026-05-13,pg_006,SEO Basics 2026,howto,412,0.322,1.0,True,72.09
+2026-05-13,pg_007,Old Product Roundup,review,43,0.614,3.3,False,0
+2026-05-13,pg_008,Fitness Tracker Comparison,review,605,0.511,1.2,True,161.55
+2026-05-14,pg_001,Best Laptops 2026,review,986,0.49,1.2,True,277.46
+2026-05-14,pg_002,How to Start a Blog,howto,495,0.525,1.1,False,0
+2026-05-14,pg_003,Top 10 VPN Services,review,710,0.685,3.3,True,162.01
+2026-05-14,pg_004,Budget Meal Planning,guide,375,0.331,1.6,True,97.0
+2026-05-14,pg_005,Remote Work Setup Guide,guide,373,0.659,2.3,False,0
+2026-05-14,pg_006,SEO Basics 2026,howto,313,0.695,3.9,False,0
+2026-05-14,pg_007,Old Product Roundup,review,57,0.321,2.7,False,0
+2026-05-14,pg_008,Fitness Tracker Comparison,review,723,0.608,4.8,True,175.97
+2026-05-15,pg_001,Best Laptops 2026,review,574,0.409,5.0,True,79.76
+2026-05-15,pg_002,How to Start a Blog,howto,505,0.473,3.7,False,0
+2026-05-15,pg_003,Top 10 VPN Services,review,601,0.547,4.2,True,42.38
+2026-05-15,pg_004,Budget Meal Planning,guide,317,0.585,3.5,False,0
+2026-05-15,pg_005,Remote Work Setup Guide,guide,356,0.343,1.0,False,0
+2026-05-15,pg_006,SEO Basics 2026,howto,366,0.408,1.5,True,59.37
+2026-05-15,pg_007,Old Product Roundup,review,46,0.463,1.1,True,3.37
+2026-05-15,pg_008,Fitness Tracker Comparison,review,847,0.43,2.5,True,124.47
+2026-05-16,pg_001,Best Laptops 2026,review,600,0.66,4.6,False,0
+2026-05-16,pg_002,How to Start a Blog,howto,417,0.368,2.5,True,52.24
+2026-05-16,pg_003,Top 10 VPN Services,review,796,0.325,2.7,True,136.16
+2026-05-16,pg_004,Budget Meal Planning,guide,298,0.401,2.0,False,0
+2026-05-16,pg_005,Remote Work Setup Guide,guide,422,0.378,1.4,False,0
+2026-05-16,pg_006,SEO Basics 2026,howto,507,0.433,3.5,False,0
+2026-05-16,pg_007,Old Product Roundup,review,40,0.434,4.3,False,0
+2026-05-16,pg_008,Fitness Tracker Comparison,review,1027,0.354,2.3,False,0
+2026-05-17,pg_001,Best Laptops 2026,review,656,0.426,4.9,False,0
+2026-05-17,pg_002,How to Start a Blog,howto,349,0.578,3.0,False,0
+2026-05-17,pg_003,Top 10 VPN Services,review,676,0.45,4.3,True,53.05
+2026-05-17,pg_004,Budget Meal Planning,guide,415,0.537,3.2,False,0
+2026-05-17,pg_005,Remote Work Setup Guide,guide,412,0.681,2.8,False,0
+2026-05-17,pg_006,SEO Basics 2026,howto,385,0.417,3.8,False,0
+2026-05-17,pg_007,Old Product Roundup,review,52,0.464,3.0,True,5.75
+2026-05-17,pg_008,Fitness Tracker Comparison,review,876,0.586,4.2,True,260.76
+2026-05-18,pg_001,Best Laptops 2026,review,790,0.46,3.0,False,0
+2026-05-18,pg_002,How to Start a Blog,howto,446,0.517,4.2,False,0
+2026-05-18,pg_003,Top 10 VPN Services,review,989,0.515,3.6,True,239.57
+2026-05-18,pg_004,Budget Meal Planning,guide,437,0.442,3.6,True,129.31
+2026-05-18,pg_005,Remote Work Setup Guide,guide,442,0.46,4.0,False,0
+2026-05-18,pg_006,SEO Basics 2026,howto,383,0.304,2.0,False,0
+2026-05-18,pg_007,Old Product Roundup,review,45,0.532,3.3,True,6.65
+2026-05-18,pg_008,Fitness Tracker Comparison,review,930,0.535,3.0,True,52.21
+2026-05-19,pg_001,Best Laptops 2026,review,610,0.466,4.8,True,173.95
+2026-05-19,pg_002,How to Start a Blog,howto,314,0.425,2.8,True,53.61
+2026-05-19,pg_003,Top 10 VPN Services,review,788,0.475,3.8,True,98.55
+2026-05-19,pg_004,Budget Meal Planning,guide,474,0.346,4.4,False,0
+2026-05-19,pg_005,Remote Work Setup Guide,guide,442,0.366,4.9,True,41.38
+2026-05-19,pg_006,SEO Basics 2026,howto,318,0.524,4.8,True,48.1
+2026-05-19,pg_007,Old Product Roundup,review,36,0.556,2.7,True,7.33
+2026-05-19,pg_008,Fitness Tracker Comparison,review,654,0.537,2.6,True,66.35
+2026-05-20,pg_001,Best Laptops 2026,review,921,0.623,1.3,True,246.82
+2026-05-20,pg_002,How to Start a Blog,howto,324,0.43,2.8,True,86.07
+2026-05-20,pg_003,Top 10 VPN Services,review,813,0.556,3.4,True,159.96
+2026-05-20,pg_004,Budget Meal Planning,guide,363,0.638,3.5,False,0
+2026-05-20,pg_005,Remote Work Setup Guide,guide,449,0.419,3.5,True,37.49
+2026-05-20,pg_006,SEO Basics 2026,howto,308,0.422,1.7,False,0
+2026-05-20,pg_007,Old Product Roundup,review,45,0.467,1.6,True,4.34
+2026-05-20,pg_008,Fitness Tracker Comparison,review,865,0.577,3.6,False,0
+2026-05-21,pg_001,Best Laptops 2026,review,826,0.496,1.6,True,134.43
+2026-05-21,pg_002,How to Start a Blog,howto,292,0.444,1.0,True,74.11
+2026-05-21,pg_003,Top 10 VPN Services,review,1022,0.502,3.0,True,157.29
+2026-05-21,pg_004,Budget Meal Planning,guide,481,0.495,1.3,True,115.57
+2026-05-21,pg_005,Remote Work Setup Guide,guide,350,0.41,3.2,True,57.52
+2026-05-21,pg_006,SEO Basics 2026,howto,458,0.606,3.2,True,35.98
+2026-05-21,pg_007,Old Product Roundup,review,52,0.629,2.5,False,0
+2026-05-21,pg_008,Fitness Tracker Comparison,review,579,0.588,3.2,False,0
+2026-05-22,pg_001,Best Laptops 2026,review,609,0.632,4.0,True,182.6
+2026-05-22,pg_002,How to Start a Blog,howto,387,0.439,4.3,False,0
+2026-05-22,pg_003,Top 10 VPN Services,review,1037,0.61,1.9,False,0
+2026-05-22,pg_004,Budget Meal Planning,guide,421,0.44,3.8,False,0
+2026-05-22,pg_005,Remote Work Setup Guide,guide,319,0.356,1.8,True,20.68
+2026-05-22,pg_006,SEO Basics 2026,howto,364,0.412,3.2,False,0
+2026-05-22,pg_007,Old Product Roundup,review,50,0.416,2.1,False,0
+2026-05-22,pg_008,Fitness Tracker Comparison,review,1033,0.572,1.4,False,0
+2026-05-23,pg_001,Best Laptops 2026,review,937,0.668,5.0,False,0
+2026-05-23,pg_002,How to Start a Blog,howto,310,0.646,2.0,False,0
+2026-05-23,pg_003,Top 10 VPN Services,review,957,0.605,3.7,True,186.0
+2026-05-23,pg_004,Budget Meal Planning,guide,344,0.466,2.8,False,0
+2026-05-23,pg_005,Remote Work Setup Guide,guide,491,0.337,3.1,True,139.49
+2026-05-23,pg_006,SEO Basics 2026,howto,368,0.68,2.3,True,89.62
+2026-05-23,pg_007,Old Product Roundup,review,51,0.592,2.8,True,7.12
+2026-05-23,pg_008,Fitness Tracker Comparison,review,590,0.514,1.9,True,60.75
+2026-05-24,pg_001,Best Laptops 2026,review,688,0.631,2.4,True,131.78
+2026-05-24,pg_002,How to Start a Blog,howto,396,0.437,3.7,True,29.66
+2026-05-24,pg_003,Top 10 VPN Services,review,936,0.484,1.5,False,0
+2026-05-24,pg_004,Budget Meal Planning,guide,385,0.3,4.8,True,85.53
+2026-05-24,pg_005,Remote Work Setup Guide,guide,311,0.56,1.6,False,0
+2026-05-24,pg_006,SEO Basics 2026,howto,345,0.562,2.0,False,0
+2026-05-24,pg_007,Old Product Roundup,review,55,0.366,2.6,True,12.37
+2026-05-24,pg_008,Fitness Tracker Comparison,review,672,0.562,3.8,True,113.7
+2026-05-25,pg_001,Best Laptops 2026,review,623,0.39,3.7,True,139.49
+2026-05-25,pg_002,How to Start a Blog,howto,476,0.695,2.7,True,32.23
+2026-05-25,pg_003,Top 10 VPN Services,review,743,0.592,1.4,True,200.79
+2026-05-25,pg_004,Budget Meal Planning,guide,312,0.609,4.0,True,93.05
+2026-05-25,pg_005,Remote Work Setup Guide,guide,314,0.512,1.0,False,0
+2026-05-25,pg_006,SEO Basics 2026,howto,385,0.589,3.5,True,58.88
+2026-05-25,pg_007,Old Product Roundup,review,50,0.644,1.3,True,11.91
+2026-05-25,pg_008,Fitness Tracker Comparison,review,842,0.454,4.9,True,71.53
+2026-05-26,pg_001,Best Laptops 2026,review,692,0.334,3.2,True,139.71
+2026-05-26,pg_002,How to Start a Blog,howto,466,0.576,4.4,False,0
+2026-05-26,pg_003,Top 10 VPN Services,review,704,0.507,3.0,True,87.22
+2026-05-26,pg_004,Budget Meal Planning,guide,293,0.659,4.8,False,0
+2026-05-26,pg_005,Remote Work Setup Guide,guide,307,0.5,3.4,False,0
+2026-05-26,pg_006,SEO Basics 2026,howto,514,0.695,4.7,True,136.31
+2026-05-26,pg_007,Old Product Roundup,review,46,0.446,3.7,True,13.28
+2026-05-26,pg_008,Fitness Tracker Comparison,review,929,0.307,1.3,True,55.7
+2026-05-27,pg_001,Best Laptops 2026,review,589,0.616,3.0,True,103.23
+2026-05-27,pg_002,How to Start a Blog,howto,379,0.581,1.3,False,0
+2026-05-27,pg_003,Top 10 VPN Services,review,855,0.411,2.2,True,86.18
+2026-05-27,pg_004,Budget Meal Planning,guide,473,0.515,2.6,False,0
+2026-05-27,pg_005,Remote Work Setup Guide,guide,480,0.572,1.3,False,0
+2026-05-27,pg_006,SEO Basics 2026,howto,455,0.639,1.2,True,72.17
+2026-05-27,pg_007,Old Product Roundup,review,43,0.544,2.2,True,10.11
+2026-05-27,pg_008,Fitness Tracker Comparison,review,617,0.583,3.8,True,177.85
+2026-05-28,pg_001,Best Laptops 2026,review,811,0.613,3.9,True,66.29
+2026-05-28,pg_002,How to Start a Blog,howto,467,0.408,4.5,False,0
+2026-05-28,pg_003,Top 10 VPN Services,review,574,0.623,2.1,True,130.92
+2026-05-28,pg_004,Budget Meal Planning,guide,418,0.331,2.8,False,0
+2026-05-28,pg_005,Remote Work Setup Guide,guide,399,0.527,2.5,True,30.21
+2026-05-28,pg_006,SEO Basics 2026,howto,417,0.589,1.9,False,0
+2026-05-28,pg_007,Old Product Roundup,review,32,0.645,2.0,True,4.66
+2026-05-28,pg_008,Fitness Tracker Comparison,review,632,0.672,4.4,True,176.0
+2026-05-29,pg_001,Best Laptops 2026,review,915,0.468,2.3,True,210.52
+2026-05-29,pg_002,How to Start a Blog,howto,345,0.331,2.5,False,0
+2026-05-29,pg_003,Top 10 VPN Services,review,992,0.372,4.2,False,0
+2026-05-29,pg_004,Budget Meal Planning,guide,508,0.328,2.9,True,132.7
+2026-05-29,pg_005,Remote Work Setup Guide,guide,358,0.521,1.0,True,68.36
+2026-05-29,pg_006,SEO Basics 2026,howto,352,0.549,2.9,False,0
+2026-05-29,pg_007,Old Product Roundup,review,44,0.609,1.8,False,0
+2026-05-29,pg_008,Fitness Tracker Comparison,review,925,0.398,1.0,True,100.13
+2026-05-30,pg_001,Best Laptops 2026,review,726,0.636,4.5,False,0
+2026-05-30,pg_002,How to Start a Blog,howto,280,0.563,4.4,False,0
+2026-05-30,pg_003,Top 10 VPN Services,review,609,0.512,2.0,True,39.57
+2026-05-30,pg_004,Budget Meal Planning,guide,519,0.585,1.4,False,0
+2026-05-30,pg_005,Remote Work Setup Guide,guide,495,0.508,3.8,False,0
+2026-05-30,pg_006,SEO Basics 2026,howto,513,0.334,1.4,True,130.81
+2026-05-30,pg_007,Old Product Roundup,review,33,0.527,2.7,False,0
+2026-05-30,pg_008,Fitness Tracker Comparison,review,673,0.404,2.3,False,0
+2026-05-31,pg_001,Best Laptops 2026,review,896,0.594,2.3,True,61.53
+2026-05-31,pg_002,How to Start a Blog,howto,328,0.612,3.3,True,29.88
+2026-05-31,pg_003,Top 10 VPN Services,review,783,0.463,3.1,False,0
+2026-05-31,pg_004,Budget Meal Planning,guide,329,0.423,2.1,True,29.41
+2026-05-31,pg_005,Remote Work Setup Guide,guide,444,0.631,3.8,True,114.99
+2026-05-31,pg_006,SEO Basics 2026,howto,358,0.336,2.0,False,0
+2026-05-31,pg_007,Old Product Roundup,review,45,0.571,2.0,False,0
+2026-05-31,pg_008,Fitness Tracker Comparison,review,574,0.462,2.8,True,64.55
+2026-06-01,pg_001,Best Laptops 2026,review,781,0.622,1.6,True,201.18
+2026-06-01,pg_002,How to Start a Blog,howto,515,0.352,4.3,False,0
+2026-06-01,pg_003,Top 10 VPN Services,review,862,0.558,3.3,True,218.25
+2026-06-01,pg_004,Budget Meal Planning,guide,285,0.326,4.6,False,0
+2026-06-01,pg_005,Remote Work Setup Guide,guide,310,0.662,4.3,False,0
+2026-06-01,pg_006,SEO Basics 2026,howto,290,0.484,1.7,False,0
+2026-06-01,pg_007,Old Product Roundup,review,53,0.458,1.1,True,4.94
+2026-06-01,pg_008,Fitness Tracker Comparison,review,663,0.375,2.1,False,0
+2026-06-02,pg_001,Best Laptops 2026,review,576,0.548,2.0,True,88.13
+2026-06-02,pg_002,How to Start a Blog,howto,412,0.324,2.1,True,41.14
+2026-06-02,pg_003,Top 10 VPN Services,review,984,0.51,3.5,False,0
+2026-06-02,pg_004,Budget Meal Planning,guide,470,0.696,4.1,False,0
+2026-06-02,pg_005,Remote Work Setup Guide,guide,410,0.494,4.7,False,0
+2026-06-02,pg_006,SEO Basics 2026,howto,373,0.372,2.3,True,102.18
+2026-06-02,pg_007,Old Product Roundup,review,52,0.323,5.0,True,12.57
+2026-06-02,pg_008,Fitness Tracker Comparison,review,1039,0.69,1.4,True,121.18
+2026-06-03,pg_001,Best Laptops 2026,review,951,0.667,1.2,False,0
+2026-06-03,pg_002,How to Start a Blog,howto,332,0.639,4.2,False,0
+2026-06-03,pg_003,Top 10 VPN Services,review,962,0.638,1.7,True,241.99
+2026-06-03,pg_004,Budget Meal Planning,guide,447,0.666,1.1,False,0
+2026-06-03,pg_005,Remote Work Setup Guide,guide,507,0.525,3.3,True,150.58
+2026-06-03,pg_006,SEO Basics 2026,howto,491,0.497,2.2,False,0
+2026-06-03,pg_007,Old Product Roundup,review,33,0.393,1.9,True,1.66
+2026-06-03,pg_008,Fitness Tracker Comparison,review,1000,0.381,1.5,True,279.7
+2026-06-04,pg_001,Best Laptops 2026,review,965,0.429,1.1,True,269.53
+2026-06-04,pg_002,How to Start a Blog,howto,465,0.639,4.4,False,0
+2026-06-04,pg_003,Top 10 VPN Services,review,739,0.677,2.6,True,92.7
+2026-06-04,pg_004,Budget Meal Planning,guide,312,0.363,4.8,False,0
+2026-06-04,pg_005,Remote Work Setup Guide,guide,510,0.56,1.7,False,0
+2026-06-04,pg_006,SEO Basics 2026,howto,446,0.672,4.1,True,87.97
+2026-06-04,pg_007,Old Product Roundup,review,36,0.423,3.8,True,8.36
+2026-06-04,pg_008,Fitness Tracker Comparison,review,1015,0.679,2.6,False,0
+2026-06-05,pg_001,Best Laptops 2026,review,1023,0.313,3.4,False,0
+2026-06-05,pg_002,How to Start a Blog,howto,512,0.388,3.3,False,0
+2026-06-05,pg_003,Top 10 VPN Services,review,627,0.598,2.0,False,0
+2026-06-05,pg_004,Budget Meal Planning,guide,320,0.654,1.4,False,0
+2026-06-05,pg_005,Remote Work Setup Guide,guide,433,0.655,2.8,True,48.66
+2026-06-05,pg_006,SEO Basics 2026,howto,296,0.403,1.4,True,43.36
+2026-06-05,pg_007,Old Product Roundup,review,51,0.688,4.5,True,7.38
+2026-06-05,pg_008,Fitness Tracker Comparison,review,822,0.341,2.9,False,0
+2026-06-06,pg_001,Best Laptops 2026,review,872,0.575,1.7,True,227.98
+2026-06-06,pg_002,How to Start a Blog,howto,350,0.427,4.8,True,32.38
+2026-06-06,pg_003,Top 10 VPN Services,review,740,0.593,3.2,False,0
+2026-06-06,pg_004,Budget Meal Planning,guide,302,0.538,3.5,False,0
+2026-06-06,pg_005,Remote Work Setup Guide,guide,287,0.677,1.7,False,0
+2026-06-06,pg_006,SEO Basics 2026,howto,317,0.341,1.8,True,71.1
+2026-06-06,pg_007,Old Product Roundup,review,50,0.592,2.1,True,5.47
+2026-06-06,pg_008,Fitness Tracker Comparison,review,583,0.529,4.4,True,81.74
+2026-06-07,pg_001,Best Laptops 2026,review,765,0.418,3.6,True,76.44
+2026-06-07,pg_002,How to Start a Blog,howto,286,0.368,2.2,True,74.63
+2026-06-07,pg_003,Top 10 VPN Services,review,708,0.459,3.0,True,51.53
+2026-06-07,pg_004,Budget Meal Planning,guide,410,0.374,4.5,False,0
+2026-06-07,pg_005,Remote Work Setup Guide,guide,386,0.405,2.9,True,45.22
+2026-06-07,pg_006,SEO Basics 2026,howto,294,0.601,3.7,True,39.97
+2026-06-07,pg_007,Old Product Roundup,review,46,0.688,3.4,True,11.97
+2026-06-07,pg_008,Fitness Tracker Comparison,review,952,0.467,3.1,False,0
+2026-06-08,pg_001,Best Laptops 2026,review,787,0.653,2.9,True,216.97
+2026-06-08,pg_002,How to Start a Blog,howto,451,0.501,4.6,False,0
+2026-06-08,pg_003,Top 10 VPN Services,review,885,0.548,1.5,True,82.5
+2026-06-08,pg_004,Budget Meal Planning,guide,516,0.689,4.2,True,80.42
+2026-06-08,pg_005,Remote Work Setup Guide,guide,517,0.474,5.0,False,0
+2026-06-08,pg_006,SEO Basics 2026,howto,480,0.403,4.6,False,0
+2026-06-08,pg_007,Old Product Roundup,review,33,0.455,2.6,True,3.93
+2026-06-08,pg_008,Fitness Tracker Comparison,review,779,0.649,4.1,True,140.72
+2026-06-09,pg_001,Best Laptops 2026,review,761,0.466,1.6,True,182.33
+2026-06-09,pg_002,How to Start a Blog,howto,505,0.67,3.3,True,61.37
+2026-06-09,pg_003,Top 10 VPN Services,review,817,0.438,2.6,True,140.03
+2026-06-09,pg_004,Budget Meal Planning,guide,426,0.315,2.1,True,86.12
+2026-06-09,pg_005,Remote Work Setup Guide,guide,446,0.316,4.6,False,0
+2026-06-09,pg_006,SEO Basics 2026,howto,337,0.598,4.7,False,0
+2026-06-09,pg_007,Old Product Roundup,review,32,0.627,2.2,True,5.53
+2026-06-09,pg_008,Fitness Tracker Comparison,review,894,0.339,4.5,True,262.44
+2026-06-10,pg_001,Best Laptops 2026,review,772,0.63,2.1,True,163.19
+2026-06-10,pg_002,How to Start a Blog,howto,325,0.385,4.3,False,0
+2026-06-10,pg_003,Top 10 VPN Services,review,924,0.647,4.3,True,82.92
+2026-06-10,pg_004,Budget Meal Planning,guide,354,0.503,1.5,False,0
+2026-06-10,pg_005,Remote Work Setup Guide,guide,491,0.312,1.8,False,0
+2026-06-10,pg_006,SEO Basics 2026,howto,480,0.4,2.8,False,0
+2026-06-10,pg_007,Old Product Roundup,review,50,0.41,4.3,True,10.44
+2026-06-10,pg_008,Fitness Tracker Comparison,review,619,0.312,2.5,True,58.43
+2026-06-11,pg_001,Best Laptops 2026,review,977,0.535,2.4,True,267.33
+2026-06-11,pg_002,How to Start a Blog,howto,459,0.576,2.1,False,0
+2026-06-11,pg_003,Top 10 VPN Services,review,638,0.529,4.9,False,0
+2026-06-11,pg_004,Budget Meal Planning,guide,435,0.571,2.1,False,0
+2026-06-11,pg_005,Remote Work Setup Guide,guide,284,0.612,4.1,True,78.92
+2026-06-11,pg_006,SEO Basics 2026,howto,435,0.54,1.0,True,109.3
+2026-06-11,pg_007,Old Product Roundup,review,39,0.687,3.6,True,5.62
+2026-06-11,pg_008,Fitness Tracker Comparison,review,727,0.401,2.9,True,186.17
+2026-06-12,pg_001,Best Laptops 2026,review,750,0.341,3.0,True,195.62
+2026-06-12,pg_002,How to Start a Blog,howto,369,0.559,3.4,True,28.42
+2026-06-12,pg_003,Top 10 VPN Services,review,590,0.695,3.6,False,0
+2026-06-12,pg_004,Budget Meal Planning,guide,342,0.584,4.6,True,29.92
+2026-06-12,pg_005,Remote Work Setup Guide,guide,463,0.66,4.2,False,0
+2026-06-12,pg_006,SEO Basics 2026,howto,424,0.564,3.7,False,0
+2026-06-12,pg_007,Old Product Roundup,review,49,0.699,2.0,True,7.21
+2026-06-12,pg_008,Fitness Tracker Comparison,review,576,0.583,3.3,True,133.42
+2026-06-13,pg_001,Best Laptops 2026,review,666,0.514,4.1,False,0
+2026-06-13,pg_002,How to Start a Blog,howto,441,0.503,4.4,False,0
+2026-06-13,pg_003,Top 10 VPN Services,review,980,0.372,1.4,True,112.37
+2026-06-13,pg_004,Budget Meal Planning,guide,474,0.605,1.7,False,0
+2026-06-13,pg_005,Remote Work Setup Guide,guide,360,0.336,2.4,False,0
+2026-06-13,pg_006,SEO Basics 2026,howto,353,0.615,2.3,True,43.6
+2026-06-13,pg_007,Old Product Roundup,review,54,0.488,4.5,True,15.45
+2026-06-13,pg_008,Fitness Tracker Comparison,review,594,0.656,3.0,False,0
+2026-06-14,pg_001,Best Laptops 2026,review,743,0.419,1.2,False,0
+2026-06-14,pg_002,How to Start a Blog,howto,312,0.38,2.6,False,0
+2026-06-14,pg_003,Top 10 VPN Services,review,995,0.483,2.3,True,243.51
+2026-06-14,pg_004,Budget Meal Planning,guide,397,0.552,1.7,False,0
+2026-06-14,pg_005,Remote Work Setup Guide,guide,281,0.409,4.0,True,67.75
+2026-06-14,pg_006,SEO Basics 2026,howto,397,0.605,1.4,False,0
+2026-06-14,pg_007,Old Product Roundup,review,48,0.461,4.9,True,2.85
+2026-06-14,pg_008,Fitness Tracker Comparison,review,655,0.449,1.1,True,169.19
+2026-06-15,pg_001,Best Laptops 2026,review,651,0.571,3.5,True,145.42
+2026-06-15,pg_002,How to Start a Blog,howto,362,0.352,2.5,False,0
+2026-06-15,pg_003,Top 10 VPN Services,review,640,0.63,2.2,True,148.45
+2026-06-15,pg_004,Budget Meal Planning,guide,423,0.435,4.6,False,0
+2026-06-15,pg_005,Remote Work Setup Guide,guide,362,0.661,2.4,True,103.9
+2026-06-15,pg_006,SEO Basics 2026,howto,500,0.461,1.9,False,0
+2026-06-15,pg_007,Old Product Roundup,review,35,0.594,3.4,True,4.96
+2026-06-15,pg_008,Fitness Tracker Comparison,review,872,0.315,4.5,True,160.17
+2026-06-16,pg_001,Best Laptops 2026,review,583,0.698,3.6,True,32.03
+2026-06-16,pg_002,How to Start a Blog,howto,445,0.467,2.5,False,0
+2026-06-16,pg_003,Top 10 VPN Services,review,787,0.361,3.8,True,98.59
+2026-06-16,pg_004,Budget Meal Planning,guide,438,0.565,2.1,False,0
+2026-06-16,pg_005,Remote Work Setup Guide,guide,312,0.632,1.4,False,0
+2026-06-16,pg_006,SEO Basics 2026,howto,308,0.346,1.4,True,30.78
+2026-06-16,pg_007,Old Product Roundup,review,38,0.509,1.8,True,4.71
+2026-06-16,pg_008,Fitness Tracker Comparison,review,578,0.499,1.8,False,0
+2026-06-17,pg_001,Best Laptops 2026,review,718,0.301,3.7,False,0
+2026-06-17,pg_002,How to Start a Blog,howto,480,0.568,1.6,True,85.4
+2026-06-17,pg_003,Top 10 VPN Services,review,907,0.341,2.0,True,269.53
+2026-06-17,pg_004,Budget Meal Planning,guide,351,0.486,1.4,True,21.01
+2026-06-17,pg_005,Remote Work Setup Guide,guide,349,0.621,2.3,False,0
+2026-06-17,pg_006,SEO Basics 2026,howto,302,0.603,1.2,False,0
+2026-06-17,pg_007,Old Product Roundup,review,49,0.368,2.4,True,10.07
+2026-06-17,pg_008,Fitness Tracker Comparison,review,981,0.337,4.3,True,147.34
+2026-06-18,pg_001,Best Laptops 2026,review,1021,0.409,2.5,False,0
+2026-06-18,pg_002,How to Start a Blog,howto,471,0.56,4.2,True,105.52
+2026-06-18,pg_003,Top 10 VPN Services,review,588,0.677,1.6,True,116.24
+2026-06-18,pg_004,Budget Meal Planning,guide,472,0.571,1.7,False,0
+2026-06-18,pg_005,Remote Work Setup Guide,guide,366,0.312,3.7,False,0
+2026-06-18,pg_006,SEO Basics 2026,howto,513,0.352,4.7,True,78.4
+2026-06-18,pg_007,Old Product Roundup,review,32,0.405,2.3,True,7.02
+2026-06-18,pg_008,Fitness Tracker Comparison,review,928,0.531,3.3,False,0
+2026-06-19,pg_001,Best Laptops 2026,review,881,0.435,3.1,True,65.03
+2026-06-19,pg_002,How to Start a Blog,howto,438,0.399,2.4,False,0
+2026-06-19,pg_003,Top 10 VPN Services,review,744,0.636,3.2,False,0
+2026-06-19,pg_004,Budget Meal Planning,guide,293,0.557,1.6,False,0
+2026-06-19,pg_005,Remote Work Setup Guide,guide,484,0.648,1.3,False,0
+2026-06-19,pg_006,SEO Basics 2026,howto,337,0.688,1.2,True,71.05
+2026-06-19,pg_007,Old Product Roundup,review,42,0.394,2.8,False,0
+2026-06-19,pg_008,Fitness Tracker Comparison,review,775,0.643,2.8,True,135.12
+2026-06-20,pg_001,Best Laptops 2026,review,873,0.341,2.6,True,43.69
+2026-06-20,pg_002,How to Start a Blog,howto,301,0.542,3.5,False,0
+2026-06-20,pg_003,Top 10 VPN Services,review,804,0.383,3.7,False,0
+2026-06-20,pg_004,Budget Meal Planning,guide,367,0.322,1.9,False,0
+2026-06-20,pg_005,Remote Work Setup Guide,guide,414,0.548,2.9,False,0
+2026-06-20,pg_006,SEO Basics 2026,howto,451,0.346,4.0,True,61.04
+2026-06-20,pg_007,Old Product Roundup,review,53,0.686,2.2,True,11.95
+2026-06-20,pg_008,Fitness Tracker Comparison,review,581,0.366,1.6,True,133.86
+2026-06-21,pg_001,Best Laptops 2026,review,611,0.544,1.8,False,0
+2026-06-21,pg_002,How to Start a Blog,howto,374,0.483,4.1,False,0
+2026-06-21,pg_003,Top 10 VPN Services,review,611,0.466,4.7,False,0
+2026-06-21,pg_004,Budget Meal Planning,guide,421,0.609,2.8,False,0
+2026-06-21,pg_005,Remote Work Setup Guide,guide,509,0.354,3.0,False,0
+2026-06-21,pg_006,SEO Basics 2026,howto,291,0.674,4.4,False,0
+2026-06-21,pg_007,Old Product Roundup,review,45,0.668,1.7,True,10.47
+2026-06-21,pg_008,Fitness Tracker Comparison,review,621,0.455,3.4,False,0
+2026-06-22,pg_001,Best Laptops 2026,review,801,0.454,4.9,False,0
+2026-06-22,pg_002,How to Start a Blog,howto,462,0.409,4.9,False,0
+2026-06-22,pg_003,Top 10 VPN Services,review,777,0.353,2.7,True,184.23
+2026-06-22,pg_004,Budget Meal Planning,guide,351,0.581,4.4,False,0
+2026-06-22,pg_005,Remote Work Setup Guide,guide,504,0.553,1.8,False,0
+2026-06-22,pg_006,SEO Basics 2026,howto,349,0.438,3.7,False,0
+2026-06-22,pg_007,Old Product Roundup,review,49,0.683,3.0,True,6.4
+2026-06-22,pg_008,Fitness Tracker Comparison,review,615,0.441,2.9,True,133.33
+2026-06-23,pg_001,Best Laptops 2026,review,760,0.599,4.4,True,198.99
+2026-06-23,pg_002,How to Start a Blog,howto,473,0.509,1.1,True,102.91
+2026-06-23,pg_003,Top 10 VPN Services,review,655,0.6,1.6,True,73.78
+2026-06-23,pg_004,Budget Meal Planning,guide,481,0.576,2.2,False,0
+2026-06-23,pg_005,Remote Work Setup Guide,guide,287,0.626,1.4,False,0
+2026-06-23,pg_006,SEO Basics 2026,howto,457,0.646,4.0,False,0
+2026-06-23,pg_007,Old Product Roundup,review,37,0.614,4.2,True,8.0
+2026-06-23,pg_008,Fitness Tracker Comparison,review,1004,0.455,4.8,False,0
+2026-06-24,pg_001,Best Laptops 2026,review,710,0.521,1.1,True,145.65
+2026-06-24,pg_002,How to Start a Blog,howto,467,0.648,4.3,False,0
+2026-06-24,pg_003,Top 10 VPN Services,review,898,0.559,4.0,True,180.36
+2026-06-24,pg_004,Budget Meal Planning,guide,466,0.686,2.2,True,102.83
+2026-06-24,pg_005,Remote Work Setup Guide,guide,324,0.37,3.1,False,0
+2026-06-24,pg_006,SEO Basics 2026,howto,382,0.523,1.5,False,0
+2026-06-24,pg_007,Old Product Roundup,review,38,0.432,3.8,True,3.36
+2026-06-24,pg_008,Fitness Tracker Comparison,review,714,0.32,4.7,True,153.85
+2026-06-25,pg_001,Best Laptops 2026,review,795,0.529,2.4,True,102.92
+2026-06-25,pg_002,How to Start a Blog,howto,332,0.374,1.3,False,0
+2026-06-25,pg_003,Top 10 VPN Services,review,759,0.515,1.4,True,78.43
+2026-06-25,pg_004,Budget Meal Planning,guide,359,0.444,1.9,False,0
+2026-06-25,pg_005,Remote Work Setup Guide,guide,407,0.699,4.3,False,0
+2026-06-25,pg_006,SEO Basics 2026,howto,282,0.568,2.8,False,0
+2026-06-25,pg_007,Old Product Roundup,review,48,0.548,4.8,True,6.25
+2026-06-25,pg_008,Fitness Tracker Comparison,review,999,0.678,2.5,True,120.59
+2026-06-26,pg_001,Best Laptops 2026,review,997,0.629,2.5,False,0
+2026-06-26,pg_002,How to Start a Blog,howto,386,0.318,4.6,True,68.89
+2026-06-26,pg_003,Top 10 VPN Services,review,1015,0.367,4.8,True,52.61
+2026-06-26,pg_004,Budget Meal Planning,guide,295,0.568,4.1,False,0
+2026-06-26,pg_005,Remote Work Setup Guide,guide,381,0.342,3.2,False,0
+2026-06-26,pg_006,SEO Basics 2026,howto,514,0.61,3.6,False,0
+2026-06-26,pg_007,Old Product Roundup,review,51,0.362,2.8,True,3.67
+2026-06-26,pg_008,Fitness Tracker Comparison,review,586,0.618,3.2,True,62.65
+2026-06-27,pg_001,Best Laptops 2026,review,684,0.455,3.5,True,37.09
+2026-06-27,pg_002,How to Start a Blog,howto,441,0.514,3.6,False,0
+2026-06-27,pg_003,Top 10 VPN Services,review,922,0.534,3.8,True,260.02
+2026-06-27,pg_004,Budget Meal Planning,guide,305,0.615,2.2,True,73.6
+2026-06-27,pg_005,Remote Work Setup Guide,guide,385,0.458,3.6,False,0
+2026-06-27,pg_006,SEO Basics 2026,howto,408,0.355,2.6,False,0
+2026-06-27,pg_007,Old Product Roundup,review,46,0.684,1.6,True,12.81
+2026-06-27,pg_008,Fitness Tracker Comparison,review,941,0.592,2.5,False,0
+2026-06-28,pg_001,Best Laptops 2026,review,825,0.522,1.5,True,164.31
+2026-06-28,pg_002,How to Start a Blog,howto,408,0.679,2.2,False,0
+2026-06-28,pg_003,Top 10 VPN Services,review,993,0.438,2.7,True,176.89
+2026-06-28,pg_004,Budget Meal Planning,guide,318,0.388,4.3,True,30.32
+2026-06-28,pg_005,Remote Work Setup Guide,guide,471,0.641,4.4,False,0
+2026-06-28,pg_006,SEO Basics 2026,howto,518,0.485,3.2,True,34.62
+2026-06-28,pg_007,Old Product Roundup,review,34,0.59,2.9,True,2.79
+2026-06-28,pg_008,Fitness Tracker Comparison,review,874,0.34,3.5,False,0
+2026-06-29,pg_001,Best Laptops 2026,review,712,0.48,3.5,True,139.58
+2026-06-29,pg_002,How to Start a Blog,howto,415,0.446,2.3,False,0
+2026-06-29,pg_003,Top 10 VPN Services,review,562,0.398,1.9,True,89.38
+2026-06-29,pg_004,Budget Meal Planning,guide,481,0.354,3.9,False,0
+2026-06-29,pg_005,Remote Work Setup Guide,guide,391,0.443,2.2,False,0
+2026-06-29,pg_006,SEO Basics 2026,howto,322,0.543,4.4,False,0
+2026-06-29,pg_007,Old Product Roundup,review,35,0.515,2.1,False,0
+2026-06-29,pg_008,Fitness Tracker Comparison,review,596,0.33,1.1,True,34.45
+2026-06-30,pg_001,Best Laptops 2026,review,839,0.462,3.4,False,0
+2026-06-30,pg_002,How to Start a Blog,howto,412,0.517,5.0,False,0
+2026-06-30,pg_003,Top 10 VPN Services,review,932,0.446,1.9,True,217.44
+2026-06-30,pg_004,Budget Meal Planning,guide,349,0.486,3.0,False,0
+2026-06-30,pg_005,Remote Work Setup Guide,guide,400,0.565,4.4,False,0
+2026-06-30,pg_006,SEO Basics 2026,howto,427,0.366,3.1,False,0
+2026-06-30,pg_007,Old Product Roundup,review,36,0.679,3.6,False,0
+2026-06-30,pg_008,Fitness Tracker Comparison,review,913,0.493,2.4,True,156.95
+2026-07-01,pg_001,Best Laptops 2026,review,590,0.448,1.2,True,163.39
+2026-07-01,pg_002,How to Start a Blog,howto,366,0.488,2.8,True,108.02
+2026-07-01,pg_003,Top 10 VPN Services,review,715,0.581,3.1,False,0
+2026-07-01,pg_004,Budget Meal Planning,guide,480,0.405,3.2,True,102.44
+2026-07-01,pg_005,Remote Work Setup Guide,guide,367,0.561,4.3,False,0
+2026-07-01,pg_006,SEO Basics 2026,howto,370,0.663,3.1,False,0
+2026-07-01,pg_007,Old Product Roundup,review,54,0.495,2.9,True,9.47
+2026-07-01,pg_008,Fitness Tracker Comparison,review,626,0.366,1.3,True,64.4
+2026-07-02,pg_001,Best Laptops 2026,review,649,0.445,3.9,True,69.82
+2026-07-02,pg_002,How to Start a Blog,howto,474,0.588,2.9,False,0
+2026-07-02,pg_003,Top 10 VPN Services,review,661,0.364,4.3,True,40.18
+2026-07-02,pg_004,Budget Meal Planning,guide,417,0.364,3.5,True,80.51
+2026-07-02,pg_005,Remote Work Setup Guide,guide,293,0.403,1.7,False,0
+2026-07-02,pg_006,SEO Basics 2026,howto,423,0.525,1.1,False,0
+2026-07-02,pg_007,Old Product Roundup,review,49,0.413,1.3,True,14.61
+2026-07-02,pg_008,Fitness Tracker Comparison,review,976,0.368,4.3,True,242.69

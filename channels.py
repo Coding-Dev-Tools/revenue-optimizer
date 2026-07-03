@@ -82,7 +82,7 @@ class AffiliateChannel:
                 opps.append(OptimizationOpportunity(
                     id=f"aff_conv_{aid}", channel=ChannelType.AFFILIATE,
                     title=f"Boost conversion rate for {a['name']}",
-                    description=f"{a['name']} converts at {a['avg_conv']*100:.1f}%. "
+                    description=f"{a['name']} converts at {a['avg_conv'] * 100:.1f}%. "
                                 f"Optimize funnel to reach 3% target.",
                     current_value=a['avg_conv'], projected_value=0.03,
                     revenue_gain_monthly=round(max(gain, 50), 2),
@@ -175,7 +175,7 @@ class ContentChannel:
                         "Add email capture for lead nurturing",
                         "Test in-content vs sidebar placements"
                     ],
-                    metrics={'sessions': p['sessions'], 'current_rps': round(p['revenue']/max(p['sessions'],1), 4)}
+                    metrics={'sessions': p['sessions'], 'current_rps': round(p['revenue'] / max(p['sessions'], 1), 4)}
                 ))
 
             # High bounce rate page with good traffic
@@ -184,7 +184,7 @@ class ContentChannel:
                 opps.append(OptimizationOpportunity(
                     id=f"cnt_bounce_{pid}", channel=ChannelType.CONTENT,
                     title=f"Reduce bounce rate: {p['title']}",
-                    description=f"Bounce rate {p['avg_bounce']*100:.0f}% is high. "
+                    description=f"Bounce rate {p['avg_bounce'] * 100:.0f}% is high. "
                                 f"Improve engagement to capture more revenue.",
                     current_value=p['avg_bounce'], projected_value=0.4,
                     revenue_gain_monthly=round(max(gain, 20), 2),
@@ -280,7 +280,7 @@ class SEOChannel:
                 opps.append(OptimizationOpportunity(
                     id=f"seo_ctr_{kw.replace(' ', '_')}", channel=ChannelType.SEO,
                     title=f"Improve CTR for '{kw}'",
-                    description=f"High impressions ({k['impressions']:,}) but low CTR ({k['ctr']*100:.1f}%). "
+                    description=f"High impressions ({k['impressions']:,}) but low CTR ({k['ctr'] * 100:.1f}%). "
                                 f"Optimize titles and meta descriptions.",
                     current_value=k['ctr'], projected_value=0.04,
                     revenue_gain_monthly=round(max(gain, 30), 2),
@@ -457,7 +457,7 @@ class EmailChannel:
                 opps.append(OptimizationOpportunity(
                     id=f"email_open_{lid}", channel=ChannelType.EMAIL,
                     title=f"Improve open rate: {lst['name']}",
-                    description=f"Open rate {lst['avg_open']*100:.1f}% is below 20% benchmark. "
+                    description=f"Open rate {lst['avg_open'] * 100:.1f}% is below 20% benchmark. "
                                 f"Better subject lines and send times can boost engagement.",
                     current_value=lst['avg_open'], projected_value=0.25,
                     revenue_gain_monthly=round(max(gain, 50), 2),
@@ -478,7 +478,7 @@ class EmailChannel:
                 opps.append(OptimizationOpportunity(
                     id=f"email_click_{lid}", channel=ChannelType.EMAIL,
                     title=f"Boost click rate: {lst['name']}",
-                    description=f"Good opens ({lst['avg_open']*100:.1f}%) but low clicks ({lst['avg_click']*100:.1f}%). "
+                    description=f"Good opens ({lst['avg_open'] * 100:.1f}%) but low clicks ({lst['avg_click'] * 100:.1f}%). "
                                 f"Email content and CTAs need improvement.",
                     current_value=lst['avg_click'], projected_value=0.05,
                     revenue_gain_monthly=round(max(gain, 40), 2),
@@ -498,7 +498,7 @@ class EmailChannel:
                 opps.append(OptimizationOpportunity(
                     id=f"email_unsub_{lid}", channel=ChannelType.EMAIL,
                     title=f"Reduce unsubscribe rate: {lst['name']}",
-                    description=f"Unsubscribe rate {lst['avg_unsub']*100:.2f}% is high. "
+                    description=f"Unsubscribe rate {lst['avg_unsub'] * 100:.2f}% is high. "
                                 f"List churn reduces long-term revenue potential.",
                     current_value=lst['avg_unsub'], projected_value=0.002,
                     revenue_gain_monthly=round(lst['subscribers'] * lst['avg_unsub'] * 0.5 * 30, 2),
@@ -577,7 +577,7 @@ class SocialChannel:
                 opps.append(OptimizationOpportunity(
                     id=f"soc_eng_{pid}", channel=ChannelType.SOCIAL,
                     title=f"Boost engagement: {pl['name']}",
-                    description=f"Engagement rate {pl['eng_rate']*100:.1f}% is low. "
+                    description=f"Engagement rate {pl['eng_rate'] * 100:.1f}% is low. "
                                 f"Better content strategy can drive more traffic and revenue.",
                     current_value=pl['eng_rate'], projected_value=0.05,
                     revenue_gain_monthly=round(max(gain, 30), 2),
@@ -598,7 +598,7 @@ class SocialChannel:
                 opps.append(OptimizationOpportunity(
                     id=f"soc_click_{pid}", channel=ChannelType.SOCIAL,
                     title=f"Improve click-through: {pl['name']}",
-                    description=f"Good engagement ({pl['eng_rate']*100:.1f}%) but low clicks ({pl['click_rate']*100:.1f}%). "
+                    description=f"Good engagement ({pl['eng_rate'] * 100:.1f}%) but low clicks ({pl['click_rate'] * 100:.1f}%). "
                                 f"CTAs and link placement need optimization.",
                     current_value=pl['click_rate'], projected_value=0.12,
                     revenue_gain_monthly=round(max(gain, 20), 2),
