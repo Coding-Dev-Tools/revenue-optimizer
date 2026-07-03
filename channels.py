@@ -5,9 +5,8 @@ Each channel returns a list of OptimizationOpportunity objects.
 
 import csv
 from collections import defaultdict
-from data_models import (
-    ChannelType, Effort, Impact, OptimizationOpportunity
-)
+
+from data_models import ChannelType, Effort, Impact, OptimizationOpportunity
 
 
 def _load_csv(path):
@@ -83,7 +82,7 @@ class AffiliateChannel:
                 opps.append(OptimizationOpportunity(
                     id=f"aff_conv_{aid}", channel=ChannelType.AFFILIATE,
                     title=f"Boost conversion rate for {a['name']}",
-                    description=f"{a['name']} converts at {a['avg_conv']*100:.1f}%. "
+                    description=f"{a['name']} converts at {a['avg_conv'] * 100:.1f}%. "
                                 f"Optimize funnel to reach 3% target.",
                     current_value=a['avg_conv'], projected_value=0.03,
                     revenue_gain_monthly=round(max(gain, 50), 2),
@@ -176,7 +175,7 @@ class ContentChannel:
                         "Add email capture for lead nurturing",
                         "Test in-content vs sidebar placements"
                     ],
-                    metrics={'sessions': p['sessions'], 'current_rps': round(p['revenue']/max(p['sessions'],1), 4)}
+                    metrics={'sessions': p['sessions'], 'current_rps': round(p['revenue'] / max(p['sessions'], 1), 4)}
                 ))
 
             # High bounce rate page with good traffic
@@ -185,7 +184,7 @@ class ContentChannel:
                 opps.append(OptimizationOpportunity(
                     id=f"cnt_bounce_{pid}", channel=ChannelType.CONTENT,
                     title=f"Reduce bounce rate: {p['title']}",
-                    description=f"Bounce rate {p['avg_bounce']*100:.0f}% is high. "
+                    description=f"Bounce rate {p['avg_bounce'] * 100:.0f}% is high. "
                                 f"Improve engagement to capture more revenue.",
                     current_value=p['avg_bounce'], projected_value=0.4,
                     revenue_gain_monthly=round(max(gain, 20), 2),
@@ -281,7 +280,7 @@ class SEOChannel:
                 opps.append(OptimizationOpportunity(
                     id=f"seo_ctr_{kw.replace(' ', '_')}", channel=ChannelType.SEO,
                     title=f"Improve CTR for '{kw}'",
-                    description=f"High impressions ({k['impressions']:,}) but low CTR ({k['ctr']*100:.1f}%). "
+                    description=f"High impressions ({k['impressions']:,}) but low CTR ({k['ctr'] * 100:.1f}%). "
                                 f"Optimize titles and meta descriptions.",
                     current_value=k['ctr'], projected_value=0.04,
                     revenue_gain_monthly=round(max(gain, 30), 2),
@@ -434,33 +433,33 @@ class EmailChannel:
             'unsub_sum': 0.0, 'revenue': 0.0, 'days': set()
         })
         for row in self.data:
-            l = self.lists[row['list_id']]
-            l['name'] = row['list_name']
-            l['subscribers'] = int(row['subscribers'])
-            l['open_sum'] += _safe_float(row['open_rate'])
-            l['click_sum'] += _safe_float(row['click_rate'])
-            l['unsub_sum'] += _safe_float(row['unsub_rate'])
-            l['revenue'] += _safe_float(row['revenue'])
-            l['days'].add(row['date'])
-        for l in self.lists.values():
-            n = max(len(l['days']), 1)
-            l['avg_open'] = l['open_sum'] / n
-            l['avg_click'] = l['click_sum'] / n
-            l['avg_unsub'] = l['unsub_sum'] / n
-            l['rps'] = l['revenue'] / max(l['subscribers'] * n, 1)
+            lst = self.lists[row['list_id']]
+            lst['name'] = row['list_name']
+            lst['subscribers'] = int(row['subscribers'])
+            lst['open_sum'] += _safe_float(row['open_rate'])
+            lst['click_sum'] += _safe_float(row['click_rate'])
+            lst['unsub_sum'] += _safe_float(row['unsub_rate'])
+            lst['revenue'] += _safe_float(row['revenue'])
+            lst['days'].add(row['date'])
+        for lst in self.lists.values():
+            n = max(len(lst['days']), 1)
+            lst['avg_open'] = lst['open_sum'] / n
+            lst['avg_click'] = lst['click_sum'] / n
+            lst['avg_unsub'] = lst['unsub_sum'] / n
+            lst['rps'] = lst['revenue'] / max(lst['subscribers'] * n, 1)
 
     def analyze(self):
         opps = []
-        for lid, l in self.lists.items():
+        for lid, lst in self.lists.items():
             # Low open rate
-            if l['avg_open'] < 0.20:
-                gain = l['subscribers'] * (0.25 - l['avg_open']) * l['avg_click'] * 1.5 * 30
+            if lst['avg_open'] < 0.20:
+                gain = lst['subscribers'] * (0.25 - lst['avg_open']) * lst['avg_click'] * 1.5 * 30
                 opps.append(OptimizationOpportunity(
                     id=f"email_open_{lid}", channel=ChannelType.EMAIL,
-                    title=f"Improve open rate: {l['name']}",
-                    description=f"Open rate {l['avg_open']*100:.1f}% is below 20% benchmark. "
+                    title=f"Improve open rate: {lst['name']}",
+                    description=f"Open rate {lst['avg_open'] * 100:.1f}% is below 20% benchmark. "
                                 f"Better subject lines and send times can boost engagement.",
-                    current_value=l['avg_open'], projected_value=0.25,
+                    current_value=lst['avg_open'], projected_value=0.25,
                     revenue_gain_monthly=round(max(gain, 50), 2),
                     effort=Effort.LOW, impact=Impact.HIGH,
                     action_steps=[
@@ -470,18 +469,18 @@ class EmailChannel:
                         "Clean inactive subscribers (>90 days no opens)",
                         "Test preview text optimization"
                     ],
-                    metrics={'subscribers': l['subscribers'], 'open_rate': round(l['avg_open'], 3)}
+                    metrics={'subscribers': lst['subscribers'], 'open_rate': round(lst['avg_open'], 3)}
                 ))
 
             # High open rate but low click rate - content optimization
-            if l['avg_open'] > 0.25 and l['avg_click'] < 0.03:
-                gain = l['subscribers'] * l['avg_open'] * (0.05 - l['avg_click']) * 2.0 * 30
+            if lst['avg_open'] > 0.25 and lst['avg_click'] < 0.03:
+                gain = lst['subscribers'] * lst['avg_open'] * (0.05 - lst['avg_click']) * 2.0 * 30
                 opps.append(OptimizationOpportunity(
                     id=f"email_click_{lid}", channel=ChannelType.EMAIL,
-                    title=f"Boost click rate: {l['name']}",
-                    description=f"Good opens ({l['avg_open']*100:.1f}%) but low clicks ({l['avg_click']*100:.1f}%). "
+                    title=f"Boost click rate: {lst['name']}",
+                    description=f"Good opens ({lst['avg_open'] * 100:.1f}%) but low clicks ({lst['avg_click'] * 100:.1f}%). "
                                 f"Email content and CTAs need improvement.",
-                    current_value=l['avg_click'], projected_value=0.05,
+                    current_value=lst['avg_click'], projected_value=0.05,
                     revenue_gain_monthly=round(max(gain, 40), 2),
                     effort=Effort.MEDIUM, impact=Impact.HIGH,
                     action_steps=[
@@ -491,18 +490,18 @@ class EmailChannel:
                         "Test single-CTA vs multi-CTA emails",
                         "Implement dynamic content based on user behavior"
                     ],
-                    metrics={'open_rate': round(l['avg_open'], 3), 'click_rate': round(l['avg_click'], 4)}
+                    metrics={'open_rate': round(lst['avg_open'], 3), 'click_rate': round(lst['avg_click'], 4)}
                 ))
 
             # High unsubscribe rate
-            if l['avg_unsub'] > 0.003:
+            if lst['avg_unsub'] > 0.003:
                 opps.append(OptimizationOpportunity(
                     id=f"email_unsub_{lid}", channel=ChannelType.EMAIL,
-                    title=f"Reduce unsubscribe rate: {l['name']}",
-                    description=f"Unsubscribe rate {l['avg_unsub']*100:.2f}% is high. "
+                    title=f"Reduce unsubscribe rate: {lst['name']}",
+                    description=f"Unsubscribe rate {lst['avg_unsub'] * 100:.2f}% is high. "
                                 f"List churn reduces long-term revenue potential.",
-                    current_value=l['avg_unsub'], projected_value=0.002,
-                    revenue_gain_monthly=round(l['subscribers'] * l['avg_unsub'] * 0.5 * 30, 2),
+                    current_value=lst['avg_unsub'], projected_value=0.002,
+                    revenue_gain_monthly=round(lst['subscribers'] * lst['avg_unsub'] * 0.5 * 30, 2),
                     effort=Effort.LOW, impact=Impact.MEDIUM,
                     action_steps=[
                         "Implement frequency preference center",
@@ -511,19 +510,19 @@ class EmailChannel:
                         "Survey unsubscribers for feedback",
                         "Review and reduce email frequency if needed"
                     ],
-                    metrics={'unsub_rate': round(l['avg_unsub'], 4)}
+                    metrics={'unsub_rate': round(lst['avg_unsub'], 4)}
                 ))
 
             # Low revenue per subscriber
-            if l['rps'] < 0.01 and l['subscribers'] > 5000:
+            if lst['rps'] < 0.01 and lst['subscribers'] > 5000:
                 target_rps = 0.03
-                gain = (target_rps - l['rps']) * l['subscribers'] * 30
+                gain = (target_rps - lst['rps']) * lst['subscribers'] * 30
                 opps.append(OptimizationOpportunity(
                     id=f"email_rps_{lid}", channel=ChannelType.EMAIL,
-                    title=f"Increase revenue per subscriber: {l['name']}",
-                    description=f"RPS ${l['rps']:.4f} is low for {l['subscribers']:,} subscribers. "
+                    title=f"Increase revenue per subscriber: {lst['name']}",
+                    description=f"RPS ${lst['rps']:.4f} is low for {lst['subscribers']:,} subscribers. "
                                 f"Better monetization can unlock significant revenue.",
-                    current_value=l['rps'], projected_value=target_rps,
+                    current_value=lst['rps'], projected_value=target_rps,
                     revenue_gain_monthly=round(max(gain, 100), 2),
                     effort=Effort.MEDIUM, impact=Impact.VERY_HIGH,
                     action_steps=[
@@ -533,7 +532,7 @@ class EmailChannel:
                         "Add upsell/cross-sell to transactional emails",
                         "Test dedicated promotional sends vs mixed content"
                     ],
-                    metrics={'rps': round(l['rps'], 4), 'subscribers': l['subscribers']}
+                    metrics={'rps': round(lst['rps'], 4), 'subscribers': lst['subscribers']}
                 ))
 
         for opp in opps:
@@ -565,23 +564,22 @@ class SocialChannel:
             p['posts'] += int(row['posts'])
             p['days'].add(row['date'])
         for p in self.platforms.values():
-            n = max(len(p['days']), 1)
             p['eng_rate'] = p['engagements'] / max(p['impressions'], 1)
             p['click_rate'] = p['clicks'] / max(p['engagements'], 1)
             p['rps'] = p['revenue'] / max(p['clicks'], 1)
 
     def analyze(self):
         opps = []
-        for pid, p in self.platforms.items():
+        for pid, pl in self.platforms.items():
             # Low engagement rate
-            if p['eng_rate'] < 0.03:
-                gain = p['impressions'] * (0.05 - p['eng_rate']) * p['click_rate'] * p['rps'] / max(len(p['days']), 1) * 30
+            if pl['eng_rate'] < 0.03:
+                gain = pl['impressions'] * (0.05 - pl['eng_rate']) * pl['click_rate'] * pl['rps'] / max(len(pl['days']), 1) * 30
                 opps.append(OptimizationOpportunity(
                     id=f"soc_eng_{pid}", channel=ChannelType.SOCIAL,
-                    title=f"Boost engagement: {p['name']}",
-                    description=f"Engagement rate {p['eng_rate']*100:.1f}% is low. "
+                    title=f"Boost engagement: {pl['name']}",
+                    description=f"Engagement rate {pl['eng_rate'] * 100:.1f}% is low. "
                                 f"Better content strategy can drive more traffic and revenue.",
-                    current_value=p['eng_rate'], projected_value=0.05,
+                    current_value=pl['eng_rate'], projected_value=0.05,
                     revenue_gain_monthly=round(max(gain, 30), 2),
                     effort=Effort.MEDIUM, impact=Impact.MEDIUM,
                     action_steps=[
@@ -591,18 +589,18 @@ class SocialChannel:
                         "Engage actively with comments and shares",
                         "Use trending hashtags and formats"
                     ],
-                    metrics={'eng_rate': round(p['eng_rate'], 4), 'impressions': p['impressions']}
+                    metrics={'eng_rate': round(pl['eng_rate'], 4), 'impressions': pl['impressions']}
                 ))
 
             # Low click-through from engagement
-            if p['eng_rate'] > 0.03 and p['click_rate'] < 0.08:
-                gain = p['engagements'] * (0.12 - p['click_rate']) * p['rps'] / max(len(p['days']), 1) * 30
+            if pl['eng_rate'] > 0.03 and pl['click_rate'] < 0.08:
+                gain = pl['engagements'] * (0.12 - pl['click_rate']) * pl['rps'] / max(len(pl['days']), 1) * 30
                 opps.append(OptimizationOpportunity(
                     id=f"soc_click_{pid}", channel=ChannelType.SOCIAL,
-                    title=f"Improve click-through: {p['name']}",
-                    description=f"Good engagement ({p['eng_rate']*100:.1f}%) but low clicks ({p['click_rate']*100:.1f}%). "
+                    title=f"Improve click-through: {pl['name']}",
+                    description=f"Good engagement ({pl['eng_rate'] * 100:.1f}%) but low clicks ({pl['click_rate'] * 100:.1f}%). "
                                 f"CTAs and link placement need optimization.",
-                    current_value=p['click_rate'], projected_value=0.12,
+                    current_value=pl['click_rate'], projected_value=0.12,
                     revenue_gain_monthly=round(max(gain, 20), 2),
                     effort=Effort.LOW, impact=Impact.MEDIUM,
                     action_steps=[
@@ -612,7 +610,7 @@ class SocialChannel:
                         "Test different link formats (direct vs landing page)",
                         "Pin top-converting posts"
                     ],
-                    metrics={'click_rate': round(p['click_rate'], 4)}
+                    metrics={'click_rate': round(pl['click_rate'], 4)}
                 ))
 
         for opp in opps:

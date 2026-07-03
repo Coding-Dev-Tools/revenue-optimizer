@@ -4,15 +4,17 @@ Scans channels, scores opportunities, generates action plans.
 """
 
 import os
-from data_models import (
-    ChannelType, ActionPlan, ChannelSummary,
-    SimulationResult, Effort
-)
-from channels import (
-    AffiliateChannel, ContentChannel, SEOChannel,
-    CompetitorChannel, EmailChannel, SocialChannel
-)
+import sys
 
+from channels import (
+    AffiliateChannel,
+    CompetitorChannel,
+    ContentChannel,
+    EmailChannel,
+    SEOChannel,
+    SocialChannel,
+)
+from data_models import ActionPlan, ChannelSummary, ChannelType, Effort, SimulationResult
 
 CHANNEL_MAP = {
     ChannelType.AFFILIATE: ("affiliate_performance.csv", AffiliateChannel),
@@ -42,13 +44,13 @@ class RevenueOptimizer:
 
         for ch_type in channels:
             if ch_type not in CHANNEL_MAP:
-                print(f"Warning: Unknown channel {ch_type}")
+                sys.stderr.write(f"Warning: Unknown channel type {ch_type}\n")
                 continue
 
             filename, cls = CHANNEL_MAP[ch_type]
             path = os.path.join(self.data_dir, filename)
             if not os.path.exists(path):
-                print(f"Warning: Data file not found: {path}")
+                sys.stderr.write(f"Warning: Data file not found: {path}\n")
                 continue
 
             try:
@@ -56,9 +58,8 @@ class RevenueOptimizer:
                 opps = channel.analyze()
                 self.opportunities.extend(opps)
                 self.summaries[ch_type] = self._build_summary(ch_type, channel, opps)
-                print(f"  {ch_type.value}: {len(opps)} opportunities found")
             except Exception as e:
-                print(f"Error analyzing {ch_type.value}: {e}")
+                sys.stderr.write(f"Warning: Error analyzing {ch_type.value}: {e}\n")
 
         # Sort by ROI score
         self.opportunities.sort(key=lambda o: o.roi_score, reverse=True)
@@ -82,9 +83,9 @@ class RevenueOptimizer:
                 total_rev += k['clicks'] * k['cpc'] * 0.05
                 days.add('seo')
         elif hasattr(channel, 'lists'):
-            for l in channel.lists.values():
-                total_rev += l['revenue']
-                days.update(l['days'])
+            for lst in channel.lists.values():
+                total_rev += lst['revenue']
+                days.update(lst['days'])
         elif hasattr(channel, 'platforms'):
             for p in channel.platforms.values():
                 total_rev += p['revenue']

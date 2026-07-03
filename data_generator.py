@@ -276,7 +276,6 @@ def generate_all(days=90):
         data = gen_func(days)
         path = save_csv(data, filename)
         paths[filename] = path
-        print(f"Generated {filename}: {len(data)} rows -> {path}")
     return paths
 
 
