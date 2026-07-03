@@ -43,11 +43,13 @@ class RevenueOptimizer:
 
         for ch_type in channels:
             if ch_type not in CHANNEL_MAP:
+                print(f"Warning: Unknown channel type {ch_type}")
                 continue
 
             filename, cls = CHANNEL_MAP[ch_type]
             path = os.path.join(self.data_dir, filename)
             if not os.path.exists(path):
+                print(f"Warning: Data file not found: {path}")
                 continue
 
             try:
@@ -55,8 +57,8 @@ class RevenueOptimizer:
                 opps = channel.analyze()
                 self.opportunities.extend(opps)
                 self.summaries[ch_type] = self._build_summary(ch_type, channel, opps)
-            except Exception:
-                pass
+            except Exception as e:
+                print(f"Warning: Error analyzing {ch_type.value}: {e}")
 
         # Sort by ROI score
         self.opportunities.sort(key=lambda o: o.roi_score, reverse=True)
