@@ -4,6 +4,7 @@ Scans channels, scores opportunities, generates action plans.
 """
 
 import os
+import sys
 
 from channels import (
     AffiliateChannel,
@@ -43,13 +44,13 @@ class RevenueOptimizer:
 
         for ch_type in channels:
             if ch_type not in CHANNEL_MAP:
-                print(f"Warning: Unknown channel type {ch_type}")
+                sys.stderr.write(f"Warning: Unknown channel type {ch_type}\n")
                 continue
 
             filename, cls = CHANNEL_MAP[ch_type]
             path = os.path.join(self.data_dir, filename)
             if not os.path.exists(path):
-                print(f"Warning: Data file not found: {path}")
+                sys.stderr.write(f"Warning: Data file not found: {path}\n")
                 continue
 
             try:
@@ -58,7 +59,7 @@ class RevenueOptimizer:
                 self.opportunities.extend(opps)
                 self.summaries[ch_type] = self._build_summary(ch_type, channel, opps)
             except Exception as e:
-                print(f"Warning: Error analyzing {ch_type.value}: {e}")
+                sys.stderr.write(f"Warning: Error analyzing {ch_type.value}: {e}\n")
 
         # Sort by ROI score
         self.opportunities.sort(key=lambda o: o.roi_score, reverse=True)

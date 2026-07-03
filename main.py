@@ -46,7 +46,7 @@ def cmd_scan(args):
     if args.channel:
         ch = CHANNEL_LOOKUP.get(args.channel.lower())
         if ch is None:
-            print(f"Error: Unknown channel '{args.channel}'. Available: {', '.join(CHANNEL_LOOKUP.keys())}")
+            sys.stderr.write(f"Error: Unknown channel '{args.channel}'. Available: {', '.join(CHANNEL_LOOKUP.keys())}\n")
             sys.exit(1)
         channels = [ch]
 
