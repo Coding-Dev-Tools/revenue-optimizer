@@ -28,7 +28,6 @@ from data_models import ChannelType
 from optimizer import RevenueOptimizer
 from reporter import Reporter
 
-
 CHANNEL_LOOKUP = {
     "affiliate": ChannelType.AFFILIATE,
     "content": ChannelType.CONTENT,
@@ -139,7 +138,7 @@ def main():
     p_sim.add_argument("--data-dir", default=os.path.join(os.path.dirname(os.path.abspath(__file__)), "data"))
 
     # generate-data
-    p_gen = subparsers.add_parser("generate-data", help="Generate synthetic demo data")
+    subparsers.add_parser("generate-data", help="Generate synthetic demo data")
 
     args = parser.parse_args()
 

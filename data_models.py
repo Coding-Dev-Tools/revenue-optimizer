@@ -3,8 +3,8 @@ data_models.py - Shared data models for Revenue Optimization Engine.
 """
 
 from dataclasses import dataclass, field
-from typing import List, Optional
 from enum import Enum
+from typing import List, Optional
 
 
 class ChannelType(Enum):

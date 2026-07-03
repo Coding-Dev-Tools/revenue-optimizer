@@ -4,15 +4,9 @@ Scans channels, scores opportunities, generates action plans.
 """
 
 import os
-from data_models import (
-    ChannelType, ActionPlan, ChannelSummary,
-    SimulationResult, Effort
-)
-from channels import (
-    AffiliateChannel, ContentChannel, SEOChannel,
-    CompetitorChannel, EmailChannel, SocialChannel
-)
 
+from channels import AffiliateChannel, CompetitorChannel, ContentChannel, EmailChannel, SEOChannel, SocialChannel
+from data_models import ActionPlan, ChannelSummary, ChannelType, Effort, SimulationResult
 
 CHANNEL_MAP = {
     ChannelType.AFFILIATE: ("affiliate_performance.csv", AffiliateChannel),
@@ -82,9 +76,9 @@ class RevenueOptimizer:
                 total_rev += k['clicks'] * k['cpc'] * 0.05
                 days.add('seo')
         elif hasattr(channel, 'lists'):
-            for l in channel.lists.values():
-                total_rev += l['revenue']
-                days.update(l['days'])
+            for lst in channel.lists.values():
+                total_rev += lst['revenue']
+                days.update(lst['days'])
         elif hasattr(channel, 'platforms'):
             for p in channel.platforms.values():
                 total_rev += p['revenue']

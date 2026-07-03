@@ -7,6 +7,7 @@ import csv
 import json
 import os
 from datetime import datetime
+
 from data_models import Priority
 
 
@@ -36,7 +37,6 @@ class Reporter:
             return
 
         max_roi = max(o.roi_score for o in opps)
-        max_gain = max(o.revenue_gain_monthly for o in opps)
 
         print()
         print("=" * 100)
